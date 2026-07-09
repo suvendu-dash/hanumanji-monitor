@@ -1,0 +1,12 @@
+aaa.paypal.com
+ainexus-ext.stage.cosmos.paypal.com
+argus.qa.paypal.com
+mcp1.paypal.com
+mcp2.paypal.com
+p-fastly.glb.paypal.com
+slcsbjava3.slc.paypal.com
+slcsbjm1.slc.paypal.com
+stage2mobile02.paypal.com
+te-dominos.qa.paypal.com
+www.sanbox.paypal.com
+www.te-dominos.qa.paypal.com
