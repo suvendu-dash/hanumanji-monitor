@@ -1,5 +1,3 @@
-0.apps.openai.com
-00801.apps.openai.com
 academy.openai.com
 account.api.openai.com
 account.auth.openai.com
@@ -37,6 +35,7 @@ android.chat.openai.com
 api-cloudflare.openai.com
 api-ide.unified-0.api.openai.com
 api-ide.unified-1.api.openai.com
+api-keys-openai-api-platform.openai.com
 api.ads.openai.com
 api.apps.openai.com
 api.openai.com
@@ -147,9 +146,7 @@ click.em6623.email.openai.com
 click.openai.com
 client-events.apps.openai.com
 cloud.bzr.openai.com
-cloudflare.api.openai.com
 coconut.fde.openai.com
-codex.openai.com
 community.openai.com
 contest.openai.com
 context.openai.com
@@ -163,7 +160,6 @@ debate-game.openai.com
 demo.academy.openai.com
 democratic-inputs.forum.openai.com
 deploymentsafety.openai.com
-desktop.chat.openai.com
 dev.academy.openai.com
 dev.auth.openai.com
 dev.community.openai.com
@@ -272,6 +268,8 @@ eu.api.openai.com
 evals.openai.com
 event.openai.com
 events.openai.com
+example.azure.openai.com
+example.openai.com
 expert-ai-trainers.forum.openai.com
 explorer.api.openai.com
 explorer.openai.com
@@ -532,7 +530,6 @@ help.api.openai.com
 help.bzrcdn.openai.com
 help.ios.chat.openai.com
 help.openai.com
-help2.openai.com
 higherlevelapi-canary.unified-0.api.openai.com
 higherlevelapi-canary.unified-1.api.openai.com
 higherlevelapi-canary.unified-2.api.openai.com
@@ -542,11 +539,12 @@ higherlevelapi-canary.unified-5.api.openai.com
 higherlevelapi-canary.unified-6.api.openai.com
 higherlevelapi-canary.unified-7.api.openai.com
 higherlevelapi-canary.unified-8.api.openai.com
+higherlevelapi-canary.unified-9.api.openai.com
 higherlevelapi.unified-0.api.openai.com
-higherlevelapi.unified-1.api.openai.com
 higherlevelapi.unified-2.api.openai.com
 higherlevelapi.unified-3.api.openai.com
 higherlevelapi.unified-4.api.openai.com
+higherlevelapi.unified-5.api.openai.com
 higherlevelapi.unified-6.api.openai.com
 higherlevelapi.unified-7.api.openai.com
 higherlevelapi.unified-8.api.openai.com
@@ -580,12 +578,10 @@ ide-rust-api.unified-6.api.openai.com
 ide-rust-api.unified-7.api.openai.com
 ide-rust-api.unified-8.api.openai.com
 ide-rust-api.unified-9.api.openai.com
-ide.api.unified-0.api.openai.com
 ide.api.unified-11.api.openai.com
 ide.api.unified-2.api.openai.com
 ide.api.unified-4.api.openai.com
 ide.api.unified-6.api.openai.com
-ide.api.unified-7.api.openai.com
 ide.api.unified-8.api.openai.com
 ide.api.unified-9.api.openai.com
 images.chat.openai.com
@@ -612,7 +608,6 @@ k8s.em6623.email.openai.com
 ka3d0s888non270n82k.openai.com
 kr.api.openai.com
 kubernetes.bzrcdn.openai.com
-labrador.apps.openai.com
 labs.openai.com
 librarian-test.apps.openai.com
 librarian.apps.openai.com
@@ -623,7 +618,6 @@ login.android.chat.openai.com
 login.developers.openai.com
 login.em.openai.com
 login.files.openai.com
-login.openai.com
 m.auth0.openai.com
 m.em.openai.com
 m.ios.chat.openai.com
@@ -704,7 +698,9 @@ p9.ace.openai.com
 papaya.fde.openai.com
 partners.openai.com
 pay.openai.com
+plataforma.openai.com
 platform-cloudflare.openai.com
+platform-home-page-openai-api-platform.openai.com
 platform.api.openai.com
 platform.openai.com
 platform2.openai.com
@@ -743,6 +739,7 @@ prod-first-party-aks-scentralus-api-b.api.openai.com
 prod-primary-aks-scentralus-api-b.api.openai.com
 prod-primary-aks-westus2-api-a.api.openai.com
 prod.auth.openai.com
+prod.azure.openai.com
 prod.contest.openai.com
 prod.email.openai.com
 prod.files.openai.com
@@ -755,7 +752,6 @@ prometheus.email.openai.com
 public.images.openai.com
 recruiting.openai.com
 red.openai.com
-region1.chat.openai.com
 remote.images.openai.com
 responsesapi-cert-publisher.gateway-passthrough.unified-0.api.openai.com
 retrieval-browsing.apps.openai.com
@@ -784,6 +780,7 @@ scim.openai.com
 search-onramp.apps.openai.com
 search-onramp.unified-8.api.openai.com
 search-onramp.unified-9.api.openai.com
+search.apps.openai.com
 secure.files.openai.com
 secure.ios.chat.openai.com
 send.openai.com
@@ -802,7 +799,6 @@ smtp.api.openai.com
 smtp.bzrcdn.openai.com
 smtp.em6623.email.openai.com
 smtp.ios.chat.openai.com
-snc-int.apps.openai.com
 snc-onramp.apps.openai.com
 snc.apps.openai.com
 sombra-external.api.openai.com

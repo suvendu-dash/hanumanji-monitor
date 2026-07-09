@@ -1,2 +1,9 @@
-0.apps.openai.com
-00801.apps.openai.com
+api-keys-openai-api-platform.openai.com
+example.azure.openai.com
+example.openai.com
+higherlevelapi-canary.unified-9.api.openai.com
+higherlevelapi.unified-5.api.openai.com
+plataforma.openai.com
+platform-home-page-openai-api-platform.openai.com
+prod.azure.openai.com
+search.apps.openai.com
