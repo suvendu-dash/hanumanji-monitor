@@ -1,0 +1,238 @@
+name: Hanumanji Daily Monitor
+
+on:
+  schedule:
+    - cron: '0 6 */5 * *'  # 2026-07-02: */3 → */5, monthly cost 2870→1720 min under 2000 free tier
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    # 2026-07-02: added job-level timeout after the Jul 1 incident where 5 of 10
+    # matrix jobs ran for the full 6-hour default timeout before being cancelled.
+    # Root cause: subfinder -all hung on slow/failing sources with no bound.
+    # 45min ceiling caps worst-case billing at 10 * 45 = 450 min per run instead
+    # of 10 * 360 = 3600 min. See Fix A for the subfinder-side timeout wrapper.
+    timeout-minutes: 45
+    strategy:
+      fail-fast: false
+      matrix:
+        domain: [openai.org, openai.com, x.com, google.com, apple.com, microsoft.com, bing.com, meta.com, facebook.com, paypal.com]
+
+    steps:
+      - uses: actions/checkout@v4.2.2
+
+      - uses: actions/setup-go@v5.5.0
+        with:
+          go-version: '1.22'
+          cache: false
+
+      - name: Install subfinder
+        run: |
+          go install github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
+          echo "$HOME/go/bin" >> $GITHUB_PATH
+
+      - name: Setup config
+        env:
+          CHAOS_KEY: ${{ secrets.CHAOS_API_KEY }}
+          ST_KEY: ${{ secrets.SECURITYTRAILS_KEY }}
+          BE_KEY: ${{ secrets.BINARYEDGE_KEY }}
+          SHODAN: ${{ secrets.SHODAN_KEY }}
+          VT_KEY: ${{ secrets.VIRUSTOTAL_KEY }}
+          GH_KEY: ${{ secrets.RECON_GITHUB_TOKEN }}
+        run: |
+          mkdir -p ~/.config/subfinder
+          printf 'chaos:\n  - "%s"\nsecuritytrails:\n  - "%s"\nbinaryedge:\n  - "%s"\nshodan:\n  - "%s"\nvirustotal:\n  - "%s"\ngithub:\n  - "%s"\n' \
+            "$CHAOS_KEY" "$ST_KEY" "$BE_KEY" "$SHODAN" "$VT_KEY" "$GH_KEY" \
+            > ~/.config/subfinder/provider-config.yaml
+
+      - name: Scan
+        run: |
+          mkdir -p results/${{ matrix.domain }}
+          # 2026-07-02: wrap in 'timeout 1800' + add -timeout 30 per-source.
+          # Prevents unbounded hangs on slow/failing sources (IntelX, ThreatBook
+          # etc). Was the direct cause of Jul 1 run 28508651349 burning 2000+
+          # min of the 2000-min free tier in one botched run.
+          timeout 1800 subfinder -d ${{ matrix.domain }} -all -silent -timeout 30 \
+            | sort -u > results/${{ matrix.domain }}/current.txt || \
+              echo "[!] subfinder hit 30-min ceiling on ${{ matrix.domain }} — using partial results"
+          echo "[+] Found $(wc -l < results/${{ matrix.domain }}/current.txt) subdomains"
+
+      - name: Compare
+        id: compare
+        run: |
+          PREV="results/${{ matrix.domain }}/previous.txt"
+          CURR="results/${{ matrix.domain }}/current.txt"
+          NEW_SUBS_FILE="results/${{ matrix.domain }}/new_subs.txt"
+          COUNT=0
+          : > "$NEW_SUBS_FILE"   # always start with an empty file
+          CURR_LINES=$(wc -l < "$CURR" 2>/dev/null || echo 0)
+          if [ ! -f "$PREV" ]; then
+            echo "[*] First run — establishing baseline ($CURR_LINES subdomains), no alert"
+          else
+            PREV_LINES=$(wc -l < "$PREV" 2>/dev/null || echo 0)
+            # 2026-06-27: sanity-check the baseline before diffing.
+            # If previous.txt is suspiciously small relative to current.txt,
+            # the prior run likely failed/was-interrupted and previous.txt
+            # is an unreliable baseline. Treat as a re-baseline event and
+            # suppress the alert to avoid 100K+ "new subs" false positives
+            # (the microsoft.com=104959 alert on Jun 25 is the case study).
+            #
+            # Threshold: previous.txt must be at least 50% of current.txt
+            # to be considered reliable.
+            if [ "$PREV_LINES" -lt $(( CURR_LINES / 2 )) ]; then
+              echo "[!] Baseline looks unreliable: previous=$PREV_LINES, current=$CURR_LINES"
+              echo "[!] Suppressing alert — treating this run as re-baseline"
+            else
+              # 2026-06-27: write new subs to a file BEFORE cp overwrites PREV.
+              # The downstream Nuclei step reads this file (previously it tried
+              # to re-run comm -23 after PREV had already been clobbered, so
+              # nuclei never actually scanned anything).
+              comm -23 "$CURR" "$PREV" > "$NEW_SUBS_FILE" 2>/dev/null || true
+              COUNT=$(wc -l < "$NEW_SUBS_FILE" 2>/dev/null || echo 0)
+              echo "[+] Compared: previous=$PREV_LINES, current=$CURR_LINES, new=$COUNT"
+            fi
+          fi
+          echo "new_count=${COUNT}" >> $GITHUB_OUTPUT
+          cp "$CURR" "$PREV"
+
+      - name: Slack alert new subdomains
+        if: steps.compare.outputs.new_count != '0'
+        env:
+          SLACK: ${{ secrets.SLACK_WEBHOOK }}
+          COUNT: ${{ steps.compare.outputs.new_count }}
+          DOM: ${{ matrix.domain }}
+        run: |
+          curl -sk -X POST "$SLACK" \
+            -H "Content-Type: application/json" \
+            -d "{\"text\":\"🔔 NEW SUBDOMAINS — ${DOM} — Count: ${COUNT}\"}"
+
+      - name: Nuclei scan on new subdomains
+        if: steps.compare.outputs.new_count != '0'
+        env:
+          SLACK: ${{ secrets.SLACK_WEBHOOK }}
+          DOM: ${{ matrix.domain }}
+        run: |
+          # 2026-06-28: explicit tool installation + diagnostic logging.
+          # The Jun 28 workflow run produced 10 NEW SUBDOMAINS alerts but
+          # ZERO follow-up nuclei messages. Root cause was indeterminate
+          # because the previous code used '2>/dev/null' on critical steps
+          # which swallowed failure evidence. This rewrite installs httpx
+          # (was likely missing on the runner) and emits diagnostic echos
+          # at every gate so the GH Actions log itself becomes the postmortem.
+
+          echo "[DIAG] Step start. DOM=${DOM} runner=$(uname -a)"
+          echo "[DIAG] PATH=$PATH"
+
+          # Install both tools explicitly. httpx was previously assumed
+          # to be on PATH but the ubuntu-latest runner doesn't ship with
+          # ProjectDiscovery's httpx (there's a Python 'httpx' library
+          # which is a different tool — its presence on PATH would cause
+          # silent failures since it isn't a CLI scanner).
+          go install github.com/projectdiscovery/httpx/cmd/httpx@latest
+          INSTALL_HTTPX=$?
+          go install github.com/projectdiscovery/nuclei/v3/cmd/nuclei@latest
+          INSTALL_NUCLEI=$?
+          echo "$HOME/go/bin" >> $GITHUB_PATH
+          export PATH="$HOME/go/bin:$PATH"
+          echo "[DIAG] httpx install exit=$INSTALL_HTTPX  nuclei install exit=$INSTALL_NUCLEI"
+          echo "[DIAG] which httpx: $(which httpx 2>&1)"
+          echo "[DIAG] which nuclei: $(which nuclei 2>&1)"
+          echo "[DIAG] httpx version: $(httpx -version 2>&1 | head -1)"
+          echo "[DIAG] nuclei version: $(nuclei -version 2>&1 | head -1)"
+
+          NEW_SUBS_FILE="results/${{ matrix.domain }}/new_subs.txt"
+          if [ -s "$NEW_SUBS_FILE" ]; then
+            NEW_TOTAL=$(wc -l < "$NEW_SUBS_FILE" 2>/dev/null || echo 0)
+            echo "[DIAG] new_subs.txt has $NEW_TOTAL entries"
+            echo "[DIAG] Sample (first 3): $(head -3 "$NEW_SUBS_FILE" | tr '\n' ' ')"
+
+            # NOTE: removed the 2>/dev/null on httpx so failures surface in log
+            cat "$NEW_SUBS_FILE" | httpx -silent > /tmp/new_alive.txt
+            HTTPX_EXIT=$?
+            NEW_ALIVE=$(wc -l < /tmp/new_alive.txt 2>/dev/null || echo 0)
+            echo "[DIAG] httpx exit=$HTTPX_EXIT  alive_count=$NEW_ALIVE"
+            if [ ! -s /tmp/new_alive.txt ]; then
+              # 2026-06-28: previously silent — now we emit a Slack notice so
+              # we know httpx returned 0 alive. Common case: new subs are
+              # internal-only (RFC1918, VPN-fronted) and don't serve public HTTP.
+              curl -sk -X POST "$SLACK" \
+                -H "Content-Type: application/json" \
+                -d "{\"text\":\"\u2139\ufe0f [GitHub] *nuclei scan skipped* \u2014 0 alive among ${NEW_TOTAL} new subs of ${DOM} (likely internal/restricted)\"}" \
+                2>/dev/null || true
+            fi
+            if [ -s /tmp/new_alive.txt ]; then
+              curl -sk -X POST "$SLACK" \
+                -H "Content-Type: application/json" \
+                -d "{\"text\":\"🔎 [GitHub] *nuclei scan started* — on ${NEW_ALIVE} NEW alive subdomain(s) of ${DOM} (not the whole domain)\"}" \
+                2>/dev/null || true
+              nuclei -l /tmp/new_alive.txt \
+                -tags cve,exposure,misconfig,takeover \
+                -severity low,medium,high,critical \
+                -silent -no-color \
+                -o /tmp/nuclei_findings.txt \
+                2>/dev/null || true
+              COUNT=$(wc -l < /tmp/nuclei_findings.txt 2>/dev/null || echo 0)
+              if [ "$COUNT" -gt 0 ]; then
+                NC_CRIT=$(grep -c "\[critical\]" /tmp/nuclei_findings.txt 2>/dev/null | head -1)
+                NC_HIGH=$(grep -c "\[high\]" /tmp/nuclei_findings.txt 2>/dev/null | head -1)
+                NC_MED=$(grep -c "\[medium\]" /tmp/nuclei_findings.txt 2>/dev/null | head -1)
+                NC_LOW=$(grep -c "\[low\]" /tmp/nuclei_findings.txt 2>/dev/null | head -1)
+                SEV_LINE="🚨${NC_CRIT:-0} 🔴${NC_HIGH:-0} 🟡${NC_MED:-0} 🔵${NC_LOW:-0}"
+                FINDINGS=$(head -10 /tmp/nuclei_findings.txt)
+                MSG="🚨 [GitHub] VULNS ON NEW SUBS — ${DOM} | ${COUNT} findings — ${SEV_LINE}\n${FINDINGS}"
+                curl -sk -X POST "$SLACK" \
+                  -H "Content-Type: application/json" \
+                  -d "{\"text\":\"${MSG}\"}"
+              else
+                curl -sk -X POST "$SLACK" \
+                  -H "Content-Type: application/json" \
+                  -d "{\"text\":\"✅ [GitHub] *nuclei scan complete* — no findings on the ${NEW_ALIVE} NEW alive subdomain(s) of ${DOM} just scanned\"}" \
+                  2>/dev/null || true
+              fi
+            fi
+          fi
+
+      - name: Upload results
+        uses: actions/upload-artifact@v4.6.2
+        with:
+          name: results-${{ matrix.domain }}
+          path: results/${{ matrix.domain }}/
+
+  commit-results:
+    runs-on: ubuntu-latest
+    needs: monitor
+    if: always()
+    steps:
+      - uses: actions/checkout@v4.2.2
+
+      - name: Download all results
+        uses: actions/download-artifact@v4.3.0
+        with:
+          path: artifacts/
+
+      - name: Move results
+        run: |
+          mkdir -p results
+          for dir in artifacts/results-*/; do
+            domain=$(basename "$dir" | sed 's/results-//')
+            mkdir -p "results/$domain"
+            cp -r "$dir"* "results/$domain/" 2>/dev/null || true
+          done
+          ls -la results/*/
+
+      - name: Commit all results
+        run: |
+          git config user.name "Hanumanji Bot"
+          git config user.email "hanumanji@recon.io"
+          git add results/
+          git diff --staged --quiet || git commit -m "Monitor results $(date +%Y-%m-%d)"
+          for i in 1 2 3; do
+            git push && break
+            echo "[!] Push failed, retrying after pull --rebase (attempt $i)..."
+            git pull --rebase origin main
+            sleep 5
+          done
