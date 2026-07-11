@@ -2796,7 +2796,6 @@ admin.commerce.bing.com
 adn.bing.com
 adq.bing.com
 ads.bing.com
-adserver.bing.com
 adt.bing.com
 adw.bing.com
 adx.bing.com
@@ -2970,7 +2969,6 @@ aor.bing.com
 aos.bing.com
 aou.bing.com
 aoy.bing.com
-aparat.com.bing.com
 apb.bing.com
 apd.bing.com
 apf.bing.com
@@ -10586,7 +10584,6 @@ srd.bing.com
 srh.bing.com
 srl.bing.com
 srm.bing.com
-srm_b0fadab4e96b56da53e01ad6292b56f82c.bing.com
 srn.bing.com
 sru.bing.com
 srw.bing.com
@@ -10653,6 +10650,8 @@ stream.cn.bing.com
 strict.bing.com
 stw.bing.com
 sub.bing.com
+submit-ssl.bing.com
+submit-www.bing.com
 suc.bing.com
 sud.bing.com
 sue.bing.com
@@ -10856,6 +10855,7 @@ thq.bing.com
 thr.bing.com
 tht.bing.com
 thv.bing.com
+thvnext.bing.com
 thx.bing.com
 thy.bing.com
 thz.bing.com
@@ -11013,7 +11013,6 @@ travel.bing.com
 travel.images.appex.bing.com
 travel.services.appex.bing.com
 travel.services.bing.com
-travel.tile.appex.bing.com
 trb.bing.com
 trd.bing.com
 trg.bing.com
@@ -12329,7 +12328,6 @@ wwj.bing.com
 wwm.bing.com
 wwo.bing.com
 wwq.bing.com
-wwqw.bing.com
 wws.bing.com
 wwv.bing.com
 www-uat.microsoftcasualgames.bing.com
@@ -12606,7 +12604,6 @@ xmr.bing.com
 xmt.bing.com
 xmy.bing.com
 xmz.bing.com
-xn--5www-9bo7929dp63d.bing.com
 xnb.bing.com
 xnc.bing.com
 xnd.bing.com
@@ -13288,7 +13285,6 @@ zfz.bing.com
 zge.bing.com
 zgh.bing.com
 zgi.bing.com
-zgj.bing.com
 zgl.bing.com
 zgp.bing.com
 zgr.bing.com

@@ -1,4 +1,3 @@
-srm_b0fadab4e96b56da53e01ad6292b56f82c.bing.com
-wwqw.bing.com
-xn--5www-9bo7929dp63d.bing.com
-zgj.bing.com
+submit-ssl.bing.com
+submit-www.bing.com
+thvnext.bing.com
