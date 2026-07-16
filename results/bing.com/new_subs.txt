@@ -1,3 +1,5 @@
-submit-ssl.bing.com
-submit-www.bing.com
-thvnext.bing.com
+_www.bing.com
+aname.bing.com
+foodanddrink.services.appex.bing.com
+svt.bing.com
+tzr.bing.com

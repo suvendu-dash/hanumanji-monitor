@@ -2718,6 +2718,7 @@ _etcd-server-ssl.bing.com
 _mta-sts.bing.com
 _tcp.bing.com
 _tls.bing.com
+_www.bing.com
 a.bing.com
 a1.bing.com
 a2.bing.com
@@ -2938,6 +2939,7 @@ amy.bing.com
 ana.bing.com
 analytics.business.bing.com
 analytics.edgeservices.bing.com
+aname.bing.com
 ani.bing.com
 anj.bing.com
 ank.bing.com
@@ -5137,6 +5139,7 @@ foh.bing.com
 fol.bing.com
 fom.bing.com
 fon.bing.com
+foodanddrink.services.appex.bing.com
 fop.bing.com
 forum.bing.com
 forum.g.bing.com
@@ -10676,6 +10679,7 @@ suy.bing.com
 svg.bing.com
 svi.bing.com
 svn.bing.com
+svt.bing.com
 svu.bing.com
 svw.bing.com
 svx.bing.com
@@ -11140,6 +11144,7 @@ tzm.bing.com
 tzn.bing.com
 tzp.bing.com
 tzq.bing.com
+tzr.bing.com
 tzt.bing.com
 tzv.bing.com
 tzw.bing.com
@@ -12331,7 +12336,6 @@ wwq.bing.com
 wws.bing.com
 wwv.bing.com
 www-uat.microsoftcasualgames.bing.com
-www-www.bing.com
 www.any.edge.bing.com
 www.api.choice.bing.com
 www.appex.bing.com
