@@ -520,6 +520,7 @@
 141092776.r.bat.bing.com
 141096232.r.bat.bing.com
 141096440.r.bat.bing.com
+141096608.r.bat.bing.com
 141104169.r.bat.bing.com
 141104403.r.bat.bing.com
 141105793.r.bat.bing.com
@@ -1109,6 +1110,7 @@
 174104319.r.bat.bing.com
 174112544.r.bat.bing.com
 174114608.r.bat.bing.com
+174126925.r.bat.bing.com
 1743302.r.bat.bing.com
 1744665.r.bat.bing.com
 1744996.r.bat.bing.com
@@ -2329,6 +2331,7 @@
 52000741.r.bat.bing.com
 53139.r.bat.bing.com
 5398.r.bat.bing.com
+54.132200c.bing.com
 54000018.r.bat.bing.com
 54004802.r.bat.bing.com
 54004857.r.bat.bing.com
@@ -2695,6 +2698,7 @@
 976349.r.bat.bing.com
 976b2ae62b170b3d8693ec00dede33b8very.bing.com
 977353.r.bat.bing.com
+98198.r.bat.bing.com
 983133.r.bat.bing.com
 983359.r.bat.bing.com
 984418.r.bat.bing.com
@@ -2764,6 +2768,7 @@ abw.bing.com
 abx.bing.com
 abz.bing.com
 aca.bing.com
+academic.bing.com
 acapi.bing.com
 acc.bing.com
 account.bing.com
@@ -3029,6 +3034,7 @@ ase.bing.com
 asf.bing.com
 asg.bing.com
 asi.bing.com
+asia-red.bing.com
 asj.bing.com
 ask.bing.com
 asl.bing.com
@@ -3717,6 +3723,7 @@ ch1.m.bing.com
 ch1.wp.m.bing.com
 cha.bing.com
 chat.bat.bing.com
+chat.bing.com
 chat.edge.bing.com
 chat.www.bing.com
 chc.bing.com
@@ -5163,6 +5170,7 @@ fpq.bing.com
 fpr.bing.com
 fpt.bing.com
 fpv.bing.com
+fpw.bing.com
 fpx.bing.com
 fpy.bing.com
 fpz.bing.com
@@ -5179,6 +5187,7 @@ fqt.bing.com
 fqx.bing.com
 fqy.bing.com
 fqz.bing.com
+fr.bing.com
 frb.bing.com
 frd.bing.com
 frf.bing.com
@@ -9087,6 +9096,7 @@ pages.email3.bing.com
 pai.bing.com
 paj.bing.com
 pak.bing.com
+pao.bing.com
 pap.bing.com
 paq.bing.com
 pas.bing.com
@@ -9783,6 +9793,7 @@ qts.bing.com
 qttgq.bing.com
 qua.bing.com
 quc.bing.com
+que.bing.com
 qug.bing.com
 qui.bing.com
 quj.bing.com
@@ -10679,7 +10690,6 @@ suy.bing.com
 svg.bing.com
 svi.bing.com
 svn.bing.com
-svt.bing.com
 svu.bing.com
 svw.bing.com
 svx.bing.com
@@ -11028,6 +11038,7 @@ trp.bing.com
 trq.bing.com
 trr.bing.com
 trt.bing.com
+truthpandemic.bing.com
 trv.bing.com
 trx.bing.com
 try.bing.com
@@ -11144,7 +11155,6 @@ tzm.bing.com
 tzn.bing.com
 tzp.bing.com
 tzq.bing.com
-tzr.bing.com
 tzt.bing.com
 tzv.bing.com
 tzw.bing.com
@@ -12044,6 +12054,7 @@ weu.bing.com
 wev.bing.com
 wex.bing.com
 wey.bing.com
+wf1.bing.com
 wfg.bing.com
 wfi.bing.com
 wfj.bing.com
@@ -12608,6 +12619,7 @@ xmr.bing.com
 xmt.bing.com
 xmy.bing.com
 xmz.bing.com
+xn--pfmpwww-by0q275nmwo.bing.com
 xnb.bing.com
 xnc.bing.com
 xnd.bing.com
