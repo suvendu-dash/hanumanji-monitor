@@ -1531,6 +1531,7 @@
 27129ff5af6201627cd99818150c6648andvalueverify.bing.com
 2714498.r.bat.bing.com
 271612.r.bat.bing.com
+2719969.r.bat.bing.com
 2722820.r.bat.bing.com
 2723739.r.bat.bing.com
 2725306.r.bat.bing.com
@@ -2331,7 +2332,6 @@
 52000741.r.bat.bing.com
 53139.r.bat.bing.com
 5398.r.bat.bing.com
-54.132200c.bing.com
 54000018.r.bat.bing.com
 54004802.r.bat.bing.com
 54004857.r.bat.bing.com
@@ -2921,6 +2921,7 @@ alt1.aspmx.l.bing.com
 alt2.aspmx.l.bing.com
 alt3.aspmx.l.bing.com
 alt4.aspmx.l.bing.com
+alternativese.bing.com
 alz.bing.com
 ama.bing.com
 amb.bing.com
@@ -3034,7 +3035,6 @@ ase.bing.com
 asf.bing.com
 asg.bing.com
 asi.bing.com
-asia-red.bing.com
 asj.bing.com
 ask.bing.com
 asl.bing.com
@@ -3672,6 +3672,7 @@ ceg.bing.com
 cei.bing.com
 cek.bing.com
 cel.bing.com
+celery.bing.com
 cem.bing.com
 ceo.bing.com
 cepmu.bing.com
@@ -3723,7 +3724,6 @@ ch1.m.bing.com
 ch1.wp.m.bing.com
 cha.bing.com
 chat.bat.bing.com
-chat.bing.com
 chat.edge.bing.com
 chat.www.bing.com
 chc.bing.com
@@ -4809,6 +4809,7 @@ esport.bing.com
 esq.bing.com
 esr.bing.com
 ess.bing.com
+estfamilysafety.bing.com
 esu.bing.com
 esv.bing.com
 esw.bing.com
@@ -5146,7 +5147,7 @@ foh.bing.com
 fol.bing.com
 fom.bing.com
 fon.bing.com
-foodanddrink.services.appex.bing.com
+foodanddrink.tile.appex.bing.com
 fop.bing.com
 forum.bing.com
 forum.g.bing.com
@@ -5170,7 +5171,6 @@ fpq.bing.com
 fpr.bing.com
 fpt.bing.com
 fpv.bing.com
-fpw.bing.com
 fpx.bing.com
 fpy.bing.com
 fpz.bing.com
@@ -5330,6 +5330,7 @@ gac.bing.com
 gag.bing.com
 gah.bing.com
 gak.bing.com
+games.bing.com
 gao.bing.com
 gap.bing.com
 gaq.bing.com
@@ -6625,6 +6626,7 @@ jfn.bing.com
 jfp.bing.com
 jfq.bing.com
 jfr.bing.com
+jft.bing.com
 jfv.bing.com
 jfx.bing.com
 jfy.bing.com
@@ -6949,6 +6951,7 @@ jzw.bing.com
 jzx.bing.com
 jzy.bing.com
 jzz.bing.com
+k2.bing.com
 k8s.bing.com
 k8s.blob.appex.bing.com
 k8s.finance.services.appex.bing.com
@@ -7808,6 +7811,7 @@ mail.kk07.bing.com
 mail.kk08.bing.com
 mail.kk09.bing.com
 mail.kk11.bing.com
+mail.kk12.bing.com
 mail.kk14.bing.com
 mail.kk15.bing.com
 mail.kk16.bing.com
@@ -9096,7 +9100,6 @@ pages.email3.bing.com
 pai.bing.com
 paj.bing.com
 pak.bing.com
-pao.bing.com
 pap.bing.com
 paq.bing.com
 pas.bing.com
@@ -9793,7 +9796,6 @@ qts.bing.com
 qttgq.bing.com
 qua.bing.com
 quc.bing.com
-que.bing.com
 qug.bing.com
 qui.bing.com
 quj.bing.com
@@ -10621,6 +10623,7 @@ sslvpn.bing.com
 ssm.bing.com
 ssn.bing.com
 sso.bing.com
+ssp.bing.com
 ssq.bing.com
 ssr.bing.com
 sss.bing.com
@@ -11038,7 +11041,6 @@ trp.bing.com
 trq.bing.com
 trr.bing.com
 trt.bing.com
-truthpandemic.bing.com
 trv.bing.com
 trx.bing.com
 try.bing.com
@@ -12054,7 +12056,6 @@ weu.bing.com
 wev.bing.com
 wex.bing.com
 wey.bing.com
-wf1.bing.com
 wfg.bing.com
 wfi.bing.com
 wfj.bing.com
@@ -12619,7 +12620,6 @@ xmr.bing.com
 xmt.bing.com
 xmy.bing.com
 xmz.bing.com
-xn--pfmpwww-by0q275nmwo.bing.com
 xnb.bing.com
 xnc.bing.com
 xnd.bing.com
@@ -12653,6 +12653,7 @@ xoo.bing.com
 xos.bing.com
 xot.bing.com
 xou.bing.com
+xovide.bing.com
 xpb.bing.com
 xpd.bing.com
 xpf.bing.com

@@ -40,6 +40,7 @@ api-ide.unified-1.api.openai.com
 api.ads.openai.com
 api.apps.openai.com
 api.openai.com
+api.presence.openai.com
 api.prod-primary-aks-scentralus-api-b.api.openai.com
 api.unified-0.api.openai.com
 api.unified-1.api.openai.com
@@ -233,6 +234,12 @@ edge.unified-176.api.openai.com
 edge.unified-177.api.openai.com
 edge.unified-178.api.openai.com
 edge.unified-179.api.openai.com
+edge.unified-180.api.openai.com
+edge.unified-181.api.openai.com
+edge.unified-183.api.openai.com
+edge.unified-184.api.openai.com
+edge.unified-185.api.openai.com
+edge.unified-186.api.openai.com
 edge.unified-23.api.openai.com
 edge.unified-24.api.openai.com
 edge.unified-26.api.openai.com
@@ -315,10 +322,14 @@ gateway.cpe-0.api.openai.com
 gateway.eks-0.api.openai.com
 gateway.eks-1.api.openai.com
 gateway.encl-0.api.openai.com
+gateway.encl-11.api.openai.com
 gateway.encl-3.api.openai.com
 gateway.encl-4.api.openai.com
 gateway.encl-5.api.openai.com
 gateway.encl-6.api.openai.com
+gateway.encl-7.api.openai.com
+gateway.encl-8.api.openai.com
+gateway.encl-9.api.openai.com
 gateway.fed-unified-0.api.openai.com
 gateway.fed-unified-1.api.openai.com
 gateway.fed-unified-2.api.openai.com
@@ -427,6 +438,12 @@ gateway.unified-177.api.openai.com
 gateway.unified-178.api.openai.com
 gateway.unified-179.api.openai.com
 gateway.unified-18.api.openai.com
+gateway.unified-180.api.openai.com
+gateway.unified-181.api.openai.com
+gateway.unified-183.api.openai.com
+gateway.unified-184.api.openai.com
+gateway.unified-185.api.openai.com
+gateway.unified-186.api.openai.com
 gateway.unified-19.api.openai.com
 gateway.unified-2.api.openai.com
 gateway.unified-20.api.openai.com
@@ -670,6 +687,7 @@ monitor.bzr.openai.com
 msly.api.openai.com
 mtls-eu.api.openai.com
 mtls.api.openai.com
+mtls.auth.openai.com
 musenet-pg.openai.com
 musenet.openai.com
 mx.bzr.openai.com
@@ -732,6 +750,7 @@ playground.api.openai.com
 playground.openai.com
 pop.ios.chat.openai.com
 preprod.prism.openai.com
+presence.openai.com
 preview.prism.openai.com
 primaryapi-canary.unified-0.api.openai.com
 primaryapi-canary.unified-1.api.openai.com

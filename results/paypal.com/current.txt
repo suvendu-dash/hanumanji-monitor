@@ -1,7 +1,5 @@
 16695532.paypal.com
-25252furi.paypal.com
 252fwww.paypal.com
-252fwww.sandbox.paypal.com
 3pimages.beta-sandbox.paypal.com
 3pimages.paypal.com
 3pimages.sandbox.paypal.com
@@ -519,7 +517,6 @@ api.stage2mobile02.paypal.com
 api.stage2mobile08.paypal.com
 api.stage2mobile09.paypal.com
 api.stage2mobile10.paypal.com
-api.stage2mobile107.paypal.com
 api.stage2mobile12.paypal.com
 api.stage2ms023.stage.paypal.com
 api.stage2ms043.stage.paypal.com
@@ -800,7 +797,6 @@ autodiscover.data.service.paypal.com
 autodiscover.paypal.com
 av.paypal.com
 avlb.paypal.com
-awrvbu1egnl4love.stats.paypal.com
 aws.checkout.glb.paypal.com
 azure.api-3t.paypal.com
 azure.api.paypal.com
@@ -1183,6 +1179,7 @@ demo.c.sandbox.paypal.com
 demo.developer.paypal.com
 demo.glb.paypal.com
 demo.paypal.com
+demo.ppfp.qa.paypal.com
 densiplb.paypal.com
 denwebconflb.paypal.com
 deploy-release.genesis.qa.paypal.com
@@ -1262,6 +1259,9 @@ emails.paypal.com
 empresas.paypal.com
 emsadmin.paypal.com
 emsadmin.sandbox.paypal.com
+emsadmin.stage2mb107.paypal.com
+emsadmin.stage2mb109.paypal.com
+emsadmin.stage2mobile12.paypal.com
 eventapi.paypal.com
 evergreen-packagemanager-vip.qa.paypal.com
 evergreen-test.qa.paypal.com
@@ -1278,6 +1278,7 @@ fastlane-edge.paypal.com
 fastlane.paypal.com
 fastlane.sandbox.paypal.com
 ffxadmin.paypal.com
+ffxadmin.stage2mb103.paypal.com
 files.ct.ddc.paypal.com
 files.d.paypal.com
 files.hcaptcha.paypal.com
@@ -1373,7 +1374,6 @@ id-auth.paypal.com
 id.paypal.com
 id.sandbox.paypal.com
 ide.gps.qa.paypal.com
-igor.paypal.com
 image.emails.paypal.com
 image.fastlane-emails.paypal.com
 image.mktg1.paypal.com
@@ -1540,6 +1540,9 @@ mobile3.stage.paypal.com
 mobileclient.paypal.com
 mobileclient.sandbox.paypal.com
 mobilepayments.paypal.com
+moneyadmin.stage2mb104.paypal.com
+moneyadmin.stage2mobile02.paypal.com
+moneyadmin.stage2mobile12.paypal.com
 monitor.b.stats.paypal.com
 monitor.ddbm2.paypal.com
 monitor.geo.ddc.paypal.com
@@ -1684,7 +1687,6 @@ mx9.phx.paypal.com
 mx9.slc.paypal.com
 my.emails.paypal.com
 nc-ph-0394-14.paypal.com
-ndm-den1.paypal.com
 network-64-4-241-0.networks.paypal.com
 neuroid.paypal.com
 new-creditcenter.paypal.com
@@ -1950,6 +1952,7 @@ ns4.fpdbs.paypal.com
 ns4.hcaptcha.paypal.com
 o119.sends.mail.paypal.com
 o235.sends.survey.paypal.com
+o365a.paypal.com
 observability-mgstg.qa.paypal.com
 observability.qa.paypal.com
 offers.paypal.com
@@ -2645,7 +2648,6 @@ uptycshon.paypal.com
 uptycsize.paypal.com
 uptycspay.paypal.com
 uptycsven.paypal.com
-uri.paypal.com
 v1.checkout.paypal.com
 v1.ct.ddc.paypal.com
 v2.checkout.paypal.com
