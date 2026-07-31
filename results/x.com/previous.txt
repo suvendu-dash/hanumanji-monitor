@@ -20,10 +20,12 @@
 220-swedish-2017-04-12-xzjian-4off-787889789.x.com
 220-swedish-2017-04-21-off4-fujian-788fs3.x.com
 31.210.106.211.x.com
+_dmarc.x.com
 a124.x.com
 a13s16.x.com
 aa.x.com
 about-dev.x.com
+about-staging.x.com
 about.x.com
 account.ads.x.com
 account.help.x.com
@@ -46,6 +48,7 @@ admin.payments-prod.x.com
 admin.payments-staging.x.com
 admin.uk.money-dev.x.com
 ads-api.x.com
+ads-dev.x.com
 ads-staging.x.com
 ads.ads-api.x.com
 ads.help.x.com
@@ -159,12 +162,15 @@ autodiscover.caps.x.com
 autodiscover.x.com
 aws.console.x.com
 azure.ads-api.x.com
+birdwatch.x.com
 biz.x.com
+blog-dev.x.com
 blog-staging.x.com
 blog.api.x.com
 blog.x.com
 brand-dev.x.com
 brand-staging.x.com
+brand.x.com
 business-staging.x.com
 business.x.com
 c101-3.x.com
@@ -193,6 +199,7 @@ check-ocr.money.x.com
 ci.help.x.com
 click.send.x.com
 community.x.com
+communitynotes-dev.x.com
 communitynotes-staging.x.com
 communitynotes.x.com
 console.x.com
@@ -266,11 +273,13 @@ documents.payments-web.money-dev.x.com
 documents.payments-web.money-staging.x.com
 documents.payments-web.money.x.com
 downloads.console.x.com
+e.x.com
 e1.216.x.com
 e3.20160727.x.com
 edge.caps.x.com
 edge.help.x.com
 ee.10170731.x.com
+election.x.com
 elections.x.com
 email.x.com
 eng.x.com
@@ -283,11 +292,15 @@ estonia.20160826.x.com
 estonia.20161024-li98.x.com
 estonia.20161025-hdhnsjsk.x.com
 estonia.20171129-78989fs5fs.raid10.x.com
+ethicshelpline.x.com
+event-dev.x.com
+event-staging.x.com
 event.x.com
 external.help.x.com
 files.ads-api.x.com
 files.api.x.com
 files.console.x.com
+fonts.x.com
 forum.console.x.com
 forum.x.com
 ftp.x.com
@@ -297,6 +310,7 @@ gateway.chat-ws.x.com
 gateway.console.x.com
 gcore-lootproxy-prod.x.com
 gcore-lootproxy-stage.x.com
+gdpr-dev.x.com
 gdpr-staging.x.com
 gdpr.x.com
 gitlab.console.x.com
@@ -356,7 +370,6 @@ jenkins.help.x.com
 jf-o.x.com
 jf-t.x.com
 jf.x.com
-jsonplaceholder.typicode.x.com
 k323.x.com
 k828.x.com
 k937.x.com
@@ -409,6 +422,7 @@ lite.x.com
 live.api.x.com
 live.caps.x.com
 live.x.com
+livecampaign-staging.x.com
 loadtest-job.orchestrator.money-dev.x.com
 loadtest-job.orchestrator.money-staging.x.com
 loadtest-job.orchestrator.money.x.com
@@ -418,6 +432,7 @@ login.api.x.com
 login.console.x.com
 m.x.com
 mail.x.com
+mail01.x.com
 mail1.grok.x.com
 mail2.ads.x.com
 mail2.help.x.com
@@ -604,6 +619,7 @@ se20161005-a9876.x.com
 se20161029-r985ww.x.com
 se20161031-zhi98875dd.x.com
 se20161108-ki98547572.x.com
+search.x.com
 secmon.dev.unute.x.com
 secmon.prod.unute.x.com
 secmon.staging.unute.x.com
@@ -682,6 +698,7 @@ unute.money-dev.x.com
 unute22.money-dev.x.com
 unute33.money-dev.x.com
 upload-a.x.com
+upload-b.x.com
 upload.x.com
 v2.help.x.com
 v3.console.x.com

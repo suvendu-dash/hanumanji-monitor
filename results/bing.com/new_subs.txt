@@ -1,11 +1,6 @@
-2719969.r.bat.bing.com
-alternativese.bing.com
-celery.bing.com
-estfamilysafety.bing.com
-foodanddrink.tile.appex.bing.com
-games.bing.com
-jft.bing.com
-k2.bing.com
-mail.kk12.bing.com
-ssp.bing.com
-xovide.bing.com
+aparat.com.bing.com
+cnbing-cn.bing.com
+travel.tile.appex.bing.com
+uec.bing.com
+vql.bing.com
+www-www.bing.com

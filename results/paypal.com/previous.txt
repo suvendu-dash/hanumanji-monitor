@@ -1,5 +1,5 @@
+0cd20b6fe61233e4a24bf70f30c9ba46.paypal.com
 16695532.paypal.com
-252fwww.paypal.com
 3pimages.beta-sandbox.paypal.com
 3pimages.paypal.com
 3pimages.sandbox.paypal.com
@@ -12,9 +12,7 @@
 64.4.247.30-reservedip.paypal.com
 64.4.247.31-reservedip.paypal.com
 FPMS-client.live.paypal.com
-Sandbox.paypal.com
 Test.paypal.com
-_spf.paypal.com
 _www.paypal.com
 a.paypal.com
 a.sandbox.paypal.com
@@ -34,7 +32,6 @@ active-mobile.paypal.com
 active-mobileclient.paypal.com
 active-pics.paypal.com
 active-www.paypal.com
-active_www_cdn.glb.paypal.com
 ad.paypal.com
 adjvendor.glb.paypal.com
 adjvendor.paypal.com
@@ -47,7 +44,6 @@ adnormserv-slc-a.paypal.com
 adnormserv-slc-b.paypal.com
 ads.image.emails.paypal.com
 advertising.paypal.com
-againstmobileclient.paypal.com
 agw.paypal.com
 ainexus-ext.stage.cosmos.paypal.com
 ainexus.cosmos.paypal.com
@@ -818,7 +814,6 @@ beta.cdn.service.paypal.com
 beta.data.service.paypal.com
 beta.developer.paypal.com
 beta.emails.paypal.com
-bg3h5335h2uzn90i.stats.paypal.com
 blf.stats.paypal.com
 blog.cdn.news.paypal.com
 blog.ct.ddc.paypal.com
@@ -1103,6 +1098,7 @@ cr-payflow.paypal.com
 cr-payflow.ppv.paypal.com
 credit.paypal.com
 creditapply.paypal.com
+creditcard.paypal.com
 creditcenter.paypal.com
 credituat.paypal.com
 crmgateway.paypal.com
@@ -1259,9 +1255,7 @@ emails.paypal.com
 empresas.paypal.com
 emsadmin.paypal.com
 emsadmin.sandbox.paypal.com
-emsadmin.stage2mb107.paypal.com
-emsadmin.stage2mb109.paypal.com
-emsadmin.stage2mobile12.paypal.com
+emsadmin.stage2mb111.paypal.com
 eventapi.paypal.com
 evergreen-packagemanager-vip.qa.paypal.com
 evergreen-test.qa.paypal.com
@@ -1278,7 +1272,9 @@ fastlane-edge.paypal.com
 fastlane.paypal.com
 fastlane.sandbox.paypal.com
 ffxadmin.paypal.com
-ffxadmin.stage2mb103.paypal.com
+ffxadmin.stage2mb106.paypal.com
+ffxadmin.stage2mb110.paypal.com
+ffxadmin.stage2mobile12.paypal.com
 files.ct.ddc.paypal.com
 files.d.paypal.com
 files.hcaptcha.paypal.com
@@ -1377,7 +1373,6 @@ ide.gps.qa.paypal.com
 image.emails.paypal.com
 image.fastlane-emails.paypal.com
 image.mktg1.paypal.com
-image.paypal.com
 image.zettle.paypal.com
 images-payflowlink.ppv.paypal.com
 images.payflowlink-edge.glb.paypal.com
@@ -1466,6 +1461,7 @@ lhr.stats.paypal.com
 live.api-3t.paypal.com
 live.ct.ddc.paypal.com
 lmzaswq7j2.paypal.com
+login.glb.paypal.com
 login.paypal.com
 login.sandbox.paypal.com
 looker-cloud.qa.paypal.com
@@ -1485,11 +1481,13 @@ lvsppuazoud02.lvs.paypal.com
 lvsppuazssoping01.lvs.paypal.com
 lvsriskgrds3.lvs.paypal.com
 lyncdiscover.paypal.com
+m-intl-fastly.glb.paypal.com
 m-intl.glb.paypal.com
 m.api.glb.paypal.com
 m.api.paypal.com
 m.lhr.stats.paypal.com
 m.paypal.com
+m.stage2mobile01.paypal.com
 mahamodifyritmimport.paypal.com
 mahamodifytest.paypal.com
 mahatest.paypal.com
@@ -1540,9 +1538,6 @@ mobile3.stage.paypal.com
 mobileclient.paypal.com
 mobileclient.sandbox.paypal.com
 mobilepayments.paypal.com
-moneyadmin.stage2mb104.paypal.com
-moneyadmin.stage2mobile02.paypal.com
-moneyadmin.stage2mobile12.paypal.com
 monitor.b.stats.paypal.com
 monitor.ddbm2.paypal.com
 monitor.geo.ddc.paypal.com
@@ -1952,10 +1947,8 @@ ns4.fpdbs.paypal.com
 ns4.hcaptcha.paypal.com
 o119.sends.mail.paypal.com
 o235.sends.survey.paypal.com
-o365a.paypal.com
 observability-mgstg.qa.paypal.com
 observability.qa.paypal.com
-offers.paypal.com
 old-api-3t.paypal.com
 old-api-3t.sandbox.paypal.com
 old-api.sandbox.paypal.com
@@ -2254,7 +2247,6 @@ riskdataserv.paypal.com
 rms.paypal.com
 rms.ppv.paypal.com
 safebreach.paypal.com
-safetyhub-prod.glb.paypal.com
 safetyhub.paypal.com
 salescicd.stage.paypal.com
 salescicdqa.stage.paypal.com
@@ -2490,6 +2482,7 @@ te-apiagentserv-qa.qa.paypal.com
 te-arp-eng-chat-bot.qa.paypal.com
 te-asset-management.qa.paypal.com
 te-autonotes.qa.paypal.com
+te-base.qa.paypal.com
 te-braintree-14.qa.paypal.com
 te-caismith.qa.paypal.com
 te-chaos-qa-1.qa.paypal.com
@@ -2629,6 +2622,7 @@ tsp-int.stage.paypal.com
 tsp.paypal.com
 tsp.stage.paypal.com
 twofa-api-pub.paypal.com
+twofa.paypal.com
 twofasapi.ebayqe.stage.paypal.com
 twofasapi.paypal.com
 uat.api.grid.paypal.com
@@ -2747,6 +2741,7 @@ web64.nix.paypal.com
 web7.nix.paypal.com
 web8.nix.paypal.com
 web9.nix.paypal.com
+webconf2.paypal.com
 webconflb.paypal.com
 webdisk.paypal.com
 webhook-observability.paypal.com
@@ -2837,6 +2832,7 @@ www.hyperwallet.stage.paypal.com
 www.hyperwalletpayouts.stage.paypal.com
 www.internal.te-ucp-test-infra.qa.paypal.com
 www.internalsocialmessaging.stage.paypal.com
+www.intl-fastly.glb.paypal.com
 www.izettle.stage.paypal.com
 www.lnpdmz.stage.paypal.com
 www.mercadopago.stage.paypal.com
