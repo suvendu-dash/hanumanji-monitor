@@ -3838,7 +3838,6 @@ cmz.bing.com
 cn.bing.com
 cn.bing.comcn.bing.com
 cname.bing.com
-cnbing-cn.bing.com
 cnc.bing.com
 cne.bing.com
 cnf.bing.com
@@ -10657,8 +10656,6 @@ stream.cn.bing.com
 strict.bing.com
 stw.bing.com
 sub.bing.com
-submit-ssl.bing.com
-submit-www.bing.com
 suc.bing.com
 sud.bing.com
 sue.bing.com
@@ -11213,7 +11210,6 @@ udy.bing.com
 udz.bing.com
 uea.bing.com
 ueb.bing.com
-uec.bing.com
 uee.bing.com
 uef.bing.com
 ueg.bing.com
@@ -11815,7 +11811,6 @@ vqb.bing.com
 vqc.bing.com
 vqf.bing.com
 vqi.bing.com
-vql.bing.com
 vqm.bing.com
 vqo.bing.com
 vqq.bing.com
@@ -12341,7 +12336,6 @@ wwq.bing.com
 wws.bing.com
 wwv.bing.com
 www-uat.microsoftcasualgames.bing.com
-www-www.bing.com
 www.any.edge.bing.com
 www.api.choice.bing.com
 www.appex.bing.com

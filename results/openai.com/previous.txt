@@ -37,6 +37,7 @@ android.chat.openai.com
 api-cloudflare.openai.com
 api-ide.unified-0.api.openai.com
 api-ide.unified-1.api.openai.com
+api-keys-openai-api-platform.openai.com
 api.ads.openai.com
 api.apps.openai.com
 api.openai.com
@@ -149,9 +150,7 @@ click.em6623.email.openai.com
 click.openai.com
 client-events.apps.openai.com
 cloud.bzr.openai.com
-cloudflare.api.openai.com
 coconut.fde.openai.com
-codex.openai.com
 community.openai.com
 contest.openai.com
 context.openai.com
@@ -215,6 +214,7 @@ edge.unified-149.api.openai.com
 edge.unified-15.api.openai.com
 edge.unified-150.api.openai.com
 edge.unified-156.api.openai.com
+edge.unified-157.api.openai.com
 edge.unified-158.api.openai.com
 edge.unified-159.api.openai.com
 edge.unified-160.api.openai.com
@@ -240,6 +240,9 @@ edge.unified-183.api.openai.com
 edge.unified-184.api.openai.com
 edge.unified-185.api.openai.com
 edge.unified-186.api.openai.com
+edge.unified-188.api.openai.com
+edge.unified-191.api.openai.com
+edge.unified-192.api.openai.com
 edge.unified-193.api.openai.com
 edge.unified-194.api.openai.com
 edge.unified-195.api.openai.com
@@ -281,7 +284,6 @@ edge.unified-97.api.openai.com
 edunewsletter.openai.com
 em.openai.com
 em6623.email.openai.com
-em7877.tm.openai.com
 email.openai.com
 emerging-talent.forum.openai.com
 enterprise.unified-1.api.openai.com
@@ -294,6 +296,7 @@ eu.api.openai.com
 evals.openai.com
 event.openai.com
 events.openai.com
+example.azure.openai.com
 expert-ai-trainers.forum.openai.com
 explorer.api.openai.com
 explorer.openai.com
@@ -318,6 +321,7 @@ files.cdn.platform.openai.com
 files.em.openai.com
 files.openai.com
 forum.openai.com
+foundry.openai.com
 ftp.developers.openai.com
 ftp.files.openai.com
 ftp.images.openai.com
@@ -329,7 +333,9 @@ gateway.cpe-0.api.openai.com
 gateway.eks-0.api.openai.com
 gateway.eks-1.api.openai.com
 gateway.encl-0.api.openai.com
+gateway.encl-10.api.openai.com
 gateway.encl-11.api.openai.com
+gateway.encl-2.api.openai.com
 gateway.encl-3.api.openai.com
 gateway.encl-4.api.openai.com
 gateway.encl-5.api.openai.com
@@ -421,6 +427,7 @@ gateway.unified-153.api.openai.com
 gateway.unified-154.api.openai.com
 gateway.unified-155.api.openai.com
 gateway.unified-156.api.openai.com
+gateway.unified-157.api.openai.com
 gateway.unified-158.api.openai.com
 gateway.unified-159.api.openai.com
 gateway.unified-16.api.openai.com
@@ -452,7 +459,12 @@ gateway.unified-183.api.openai.com
 gateway.unified-184.api.openai.com
 gateway.unified-185.api.openai.com
 gateway.unified-186.api.openai.com
+gateway.unified-188.api.openai.com
+gateway.unified-189.api.openai.com
 gateway.unified-19.api.openai.com
+gateway.unified-190.api.openai.com
+gateway.unified-191.api.openai.com
+gateway.unified-192.api.openai.com
 gateway.unified-193.api.openai.com
 gateway.unified-194.api.openai.com
 gateway.unified-195.api.openai.com
@@ -462,6 +474,7 @@ gateway.unified-198.api.openai.com
 gateway.unified-199.api.openai.com
 gateway.unified-2.api.openai.com
 gateway.unified-20.api.openai.com
+gateway.unified-200.api.openai.com
 gateway.unified-21.api.openai.com
 gateway.unified-22.api.openai.com
 gateway.unified-23.api.openai.com
@@ -585,7 +598,6 @@ help.api.openai.com
 help.bzrcdn.openai.com
 help.ios.chat.openai.com
 help.openai.com
-help2.openai.com
 higherlevelapi-canary.unified-0.api.openai.com
 higherlevelapi-canary.unified-1.api.openai.com
 higherlevelapi-canary.unified-2.api.openai.com
@@ -663,7 +675,6 @@ ka3d0s888non270n82k.openai.com
 kiwi.fde.openai.com
 kr.api.openai.com
 kubernetes.bzrcdn.openai.com
-labs.api.openai.com
 labs.openai.com
 librarian-test.apps.openai.com
 librarian.apps.openai.com
@@ -703,6 +714,7 @@ msly.api.openai.com
 mtls-eu.api.openai.com
 mtls.api.openai.com
 mtls.auth.openai.com
+mtls.prod.connectors.openai.com
 musenet-pg.openai.com
 musenet.openai.com
 mx.bzr.openai.com
@@ -714,7 +726,6 @@ news.api.openai.com
 news.auth0.openai.com
 nori-webhooks.api.openai.com
 nori.api.openai.com
-notify.openai.com
 ns1.bzr.openai.com
 ns1.images.openai.com
 ns2.android.chat.openai.com
@@ -758,6 +769,7 @@ partners.openai.com
 pay.openai.com
 peimcommunity.openai.com
 platform-cloudflare.openai.com
+platform-home-page-openai-api-platform.openai.com
 platform.api.openai.com
 platform.openai.com
 platform2.openai.com
@@ -797,6 +809,7 @@ prod-first-party-aks-scentralus-api-b.api.openai.com
 prod-primary-aks-scentralus-api-b.api.openai.com
 prod-primary-aks-westus2-api-a.api.openai.com
 prod.auth.openai.com
+prod.azure.openai.com
 prod.contest.openai.com
 prod.email.openai.com
 prod.files.openai.com
@@ -852,7 +865,6 @@ shop.auth.openai.com
 shop.em.openai.com
 shop.ios.chat.openai.com
 sip.api.openai.com
-slack.openai.com
 sm.openai.com
 smtp.api.openai.com
 smtp.bzrcdn.openai.com
@@ -1115,4 +1127,3 @@ www.docker2.openai.com
 www.events.openai.com
 www.generations.openai.com
 www.openai.com
-your-company.azure.openai.com
