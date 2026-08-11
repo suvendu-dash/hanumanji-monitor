@@ -3964,6 +3964,7 @@ cri.bing.com
 crl.bing.com
 crm.bing.com
 cro.bing.com
+crp.bing.com
 crr.bing.com
 crs.bing.com
 csa.bing.com
@@ -5627,6 +5628,7 @@ gua.bing.com
 guc.bing.com
 gud.bing.com
 gue.bing.com
+gui.bing.com
 guj.bing.com
 guk.bing.com
 gum.bing.com
@@ -7972,6 +7974,7 @@ mhf.bing.com
 mhg.bing.com
 mhn.bing.com
 mht.bing.com
+mhw.bing.com
 mia.bing.com
 mic.bing.com
 microsoft.bing.com
@@ -9945,6 +9948,7 @@ remote.any.edge.bing.com
 remote.bat.bing.com
 remote.bing.com
 remote.choice.bing.com
+remote.covid19.bing.com
 remotecovid19.bing.com
 ren.bing.com
 rendering.services.appex.bing.com

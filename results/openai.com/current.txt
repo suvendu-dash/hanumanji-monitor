@@ -150,7 +150,9 @@ click.em6623.email.openai.com
 click.openai.com
 client-events.apps.openai.com
 cloud.bzr.openai.com
+cloudflare.api.openai.com
 coconut.fde.openai.com
+codex.openai.com
 community.openai.com
 contest.openai.com
 context.openai.com
@@ -241,6 +243,8 @@ edge.unified-184.api.openai.com
 edge.unified-185.api.openai.com
 edge.unified-186.api.openai.com
 edge.unified-188.api.openai.com
+edge.unified-189.api.openai.com
+edge.unified-190.api.openai.com
 edge.unified-191.api.openai.com
 edge.unified-192.api.openai.com
 edge.unified-193.api.openai.com
@@ -250,6 +254,7 @@ edge.unified-196.api.openai.com
 edge.unified-197.api.openai.com
 edge.unified-198.api.openai.com
 edge.unified-199.api.openai.com
+edge.unified-200.api.openai.com
 edge.unified-23.api.openai.com
 edge.unified-24.api.openai.com
 edge.unified-26.api.openai.com
@@ -598,6 +603,7 @@ help.api.openai.com
 help.bzrcdn.openai.com
 help.ios.chat.openai.com
 help.openai.com
+help2.openai.com
 higherlevelapi-canary.unified-0.api.openai.com
 higherlevelapi-canary.unified-1.api.openai.com
 higherlevelapi-canary.unified-2.api.openai.com
@@ -675,11 +681,13 @@ ka3d0s888non270n82k.openai.com
 kiwi.fde.openai.com
 kr.api.openai.com
 kubernetes.bzrcdn.openai.com
+labs.api.openai.com
 labs.openai.com
 librarian-test.apps.openai.com
 librarian.apps.openai.com
 link.openai.com
 links.openai.com
+litellm.llms.openai.com
 live.auth.openai.com
 login.android.chat.openai.com
 login.developers.openai.com
@@ -726,6 +734,7 @@ news.api.openai.com
 news.auth0.openai.com
 nori-webhooks.api.openai.com
 nori.api.openai.com
+notify.openai.com
 ns1.bzr.openai.com
 ns1.images.openai.com
 ns2.android.chat.openai.com
@@ -865,6 +874,7 @@ shop.auth.openai.com
 shop.em.openai.com
 shop.ios.chat.openai.com
 sip.api.openai.com
+slack.openai.com
 sm.openai.com
 smtp.api.openai.com
 smtp.bzrcdn.openai.com

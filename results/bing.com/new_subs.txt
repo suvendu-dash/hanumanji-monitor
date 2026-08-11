@@ -1,0 +1,4 @@
+crp.bing.com
+gui.bing.com
+mhw.bing.com
+remote.covid19.bing.com

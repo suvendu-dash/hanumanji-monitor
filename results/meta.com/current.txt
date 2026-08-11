@@ -1,5 +1,7 @@
+.www.meta.com
 1-e1eg2oulpyldcbcd.my-od-1.about.meta.com
 1.confluence.my-od-2.about.meta.com
+957yor82zuqa71m9.my-od-5.accounts.meta.com
 Env.meta.com
 _data.ajjgui.meta.com
 _dmarc.meta.com
@@ -103,7 +105,6 @@ downloads.ar-genai-fallback.graph.meta.com
 edge-chat.horizon.meta.com
 edge-chat.www.meta.com
 edge.help.meta.com
-event.meta.com
 example.meta.com
 external-disputes.meta.com
 external.about.meta.com
@@ -162,6 +163,7 @@ live.auth.meta.com
 llama.developer.meta.com
 llama.meta.com
 lookaside.ar.meta.com
+lookaside.developers.meta.com
 lookaside.devicemanager.meta.com
 lookaside.officialrequests.meta.com
 m.developers.meta.com
@@ -253,6 +255,7 @@ my-od-3.business.meta.com
 my-od-3.creators.meta.com
 my-od-3.developer.meta.com
 my-od-3.developers.meta.com
+my-od-3.external-disputes.meta.com
 my-od-3.familycenter.meta.com
 my-od-3.forwork.meta.com
 my-od-3.graph.meta.com
@@ -389,6 +392,7 @@ owa.familycenter.meta.com
 page.meta.com
 partner.work.meta.com
 payments.meta.com
+peering.meta.com
 plan.meta.com
 pma.my-od-2.about.meta.com
 pop.ar-genai-fallback.graph.meta.com
@@ -402,6 +406,7 @@ prod.accountscenter.meta.com
 prod.aidemos.meta.com
 prod.ar-genai.graph.meta.com
 prod.auth.meta.com
+prod.developer.meta.com
 prod.developers.meta.com
 prod.horizon.meta.com
 prod.work.meta.com
@@ -592,6 +597,7 @@ synthetic-e2e-shivfna-sli-shv-03-ffjr1.shiv.meta.com
 teellm.meta.com
 test.developers.meta.com
 test.familycenter.meta.com
+tests.meta.com
 threatexchange.meta.com
 transparency.meta.com
 tree.meta.com
@@ -624,11 +630,13 @@ ww2.ar-genai-fallback.graph.meta.com
 ww2.ar-genai.graph.meta.com
 www.ai.meta.com
 www.aidemos.meta.com
+www.alpha.aidemos.meta.com
 www.auth.meta.com
 www.business.meta.com
 www.familycenter.meta.com
 www.horizon.meta.com
 www.meta.com
+www.prod.aidemos.meta.com
 www.quest.meta.com
 www.spark.meta.com
 xmm.meta.com
