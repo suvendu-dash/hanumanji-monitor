@@ -3964,7 +3964,6 @@ cri.bing.com
 crl.bing.com
 crm.bing.com
 cro.bing.com
-crp.bing.com
 crr.bing.com
 crs.bing.com
 csa.bing.com
@@ -5628,7 +5627,6 @@ gua.bing.com
 guc.bing.com
 gud.bing.com
 gue.bing.com
-gui.bing.com
 guj.bing.com
 guk.bing.com
 gum.bing.com
@@ -6449,6 +6447,7 @@ iug.bing.com
 iuh.bing.com
 iui.bing.com
 iuj.bing.com
+iuk.bing.com
 ium.bing.com
 iup.bing.com
 iuq.bing.com
@@ -7168,6 +7167,7 @@ kot.bing.com
 kou.bing.com
 kov.bing.com
 kow.bing.com
+kowser.bing.com
 kox.bing.com
 koy.bing.com
 koz.bing.com
@@ -7974,7 +7974,6 @@ mhf.bing.com
 mhg.bing.com
 mhn.bing.com
 mht.bing.com
-mhw.bing.com
 mia.bing.com
 mic.bing.com
 microsoft.bing.com
@@ -8470,6 +8469,7 @@ nnb.bing.com
 nnd.bing.com
 nne.bing.com
 nnf.bing.com
+nnh.bing.com
 nni.bing.com
 nnj.bing.com
 nnl.bing.com
@@ -9948,7 +9948,6 @@ remote.any.edge.bing.com
 remote.bat.bing.com
 remote.bing.com
 remote.choice.bing.com
-remote.covid19.bing.com
 remotecovid19.bing.com
 ren.bing.com
 rendering.services.appex.bing.com
@@ -12340,6 +12339,7 @@ wwq.bing.com
 wws.bing.com
 wwv.bing.com
 www-uat.microsoftcasualgames.bing.com
+www-www.bing.com
 www.any.edge.bing.com
 www.api.choice.bing.com
 www.appex.bing.com

@@ -595,6 +595,7 @@ grants.openai.com
 graphql-explorer.apps.openai.com
 graphql.apps.openai.com
 green.api.openai.com
+gringotts.openai.com
 gtm-innovation.api.openai.com
 guardrails.openai.com
 guava.fde.openai.com
@@ -693,6 +694,7 @@ login.android.chat.openai.com
 login.developers.openai.com
 login.em.openai.com
 login.files.openai.com
+lychee.fde.openai.com
 m.auth0.openai.com
 m.em.openai.com
 m.ios.chat.openai.com
@@ -722,7 +724,6 @@ msly.api.openai.com
 mtls-eu.api.openai.com
 mtls.api.openai.com
 mtls.auth.openai.com
-mtls.prod.connectors.openai.com
 musenet-pg.openai.com
 musenet.openai.com
 mx.bzr.openai.com
@@ -776,6 +777,7 @@ p9.ace.openai.com
 papaya.fde.openai.com
 partners.openai.com
 pay.openai.com
+pear.fde.openai.com
 peimcommunity.openai.com
 platform-cloudflare.openai.com
 platform-home-page-openai-api-platform.openai.com

@@ -1,9 +1,0 @@
-.www.meta.com
-957yor82zuqa71m9.my-od-5.accounts.meta.com
-lookaside.developers.meta.com
-my-od-3.external-disputes.meta.com
-peering.meta.com
-prod.developer.meta.com
-tests.meta.com
-www.alpha.aidemos.meta.com
-www.prod.aidemos.meta.com

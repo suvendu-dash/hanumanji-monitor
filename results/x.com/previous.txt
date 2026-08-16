@@ -45,6 +45,7 @@ admin.payments-dev.x.com
 admin.payments-prod.x.com
 admin.payments-staging.x.com
 admin.uk.money-dev.x.com
+admin.uk.money-staging.x.com
 ads-api.x.com
 ads-staging.x.com
 ads.ads-api.x.com
@@ -71,6 +72,7 @@ api-lb-atl.money-dev.x.com
 api-lb-atl.money-staging.x.com
 api-lb-atl.money.x.com
 api-lb-atl.uk.money-dev.x.com
+api-lb-atl.uk.money-staging.x.com
 api-lb-client.money-dev.x.com
 api-lb-client.money-staging.x.com
 api-lb-client.money.x.com
@@ -79,6 +81,7 @@ api-lb-pdx.money-dev.x.com
 api-lb-pdx.money-staging.x.com
 api-lb-pdx.money.x.com
 api-lb-pdx.uk.money-dev.x.com
+api-lb-pdx.uk.money-staging.x.com
 api-lb.money-dev-onprem.x.com
 api-lb.money-dev.x.com
 api-lb.money-staging.x.com
@@ -91,6 +94,7 @@ api-test-tools-pdx.money-staging.x.com
 api-test-tools.money-dev.x.com
 api-test-tools.money-staging.x.com
 api-test-tools.uk.money-dev.x.com
+api-test-tools.uk.money-staging.x.com
 api-xcorp-atl.money-dev.x.com
 api-xcorp-atl.money-staging.x.com
 api-xcorp-atl.money.x.com
@@ -607,7 +611,6 @@ se20161005-a9876.x.com
 se20161029-r985ww.x.com
 se20161031-zhi98875dd.x.com
 se20161108-ki98547572.x.com
-search.x.com
 secmon.dev.unute.x.com
 secmon.prod.unute.x.com
 secmon.staging.unute.x.com
@@ -680,7 +683,14 @@ txn-risk-api.money-dev.x.com
 txn-risk-api.money-staging.x.com
 txn-risk-api.money.x.com
 u01.x.com
+uk-api-lb.money-dev.x.com
+uk-api-lb.money-staging.x.com
+uk-api-xcorp.money-dev.x.com
+uk-api-xcorp.money-staging.x.com
+uk-webhooks.money-dev.x.com
+uk-webhooks.money-staging.x.com
 uk.money-dev.x.com
+uk.money-staging.x.com
 unute.money-dev-onprem.x.com
 unute.money-dev.x.com
 unute22.money-dev.x.com
