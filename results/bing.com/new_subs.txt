@@ -1,4 +1,5 @@
-iuk.bing.com
-kowser.bing.com
-nnh.bing.com
-www-www.bing.com
+fastauth.bing.com
+ibn.bing.com
+img.bing.com
+klq209.bing.com
+www5f.bing.com

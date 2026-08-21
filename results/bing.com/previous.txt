@@ -4931,6 +4931,7 @@ fal.bing.com
 falcon.searchhighlights.bing.com
 fan.bing.com
 fao.bing.com
+fastauth.bing.com
 faw.bing.com
 faz.bing.com
 fbb.bing.com
@@ -6144,6 +6145,7 @@ iay.bing.com
 ibh.bing.com
 ibk.bing.com
 ibm.bing.com
+ibn.bing.com
 ibo.bing.com
 ibr.bing.com
 ibs.bing.com
@@ -6313,6 +6315,7 @@ imb.bing.com
 imc.bing.com
 ime.bing.com
 imf.bing.com
+img.bing.com
 img.c.bing.com
 img.explicit.any.edge.bing.com
 imh.bing.com
@@ -6447,7 +6450,6 @@ iug.bing.com
 iuh.bing.com
 iui.bing.com
 iuj.bing.com
-iuk.bing.com
 ium.bing.com
 iup.bing.com
 iuq.bing.com
@@ -7110,6 +7112,7 @@ kli.bing.com
 klj.bing.com
 klk.bing.com
 klm.bing.com
+klq209.bing.com
 klr.bing.com
 klt.bing.com
 klu.bing.com
@@ -7167,7 +7170,6 @@ kot.bing.com
 kou.bing.com
 kov.bing.com
 kow.bing.com
-kowser.bing.com
 kox.bing.com
 koy.bing.com
 koz.bing.com
@@ -8469,7 +8471,6 @@ nnb.bing.com
 nnd.bing.com
 nne.bing.com
 nnf.bing.com
-nnh.bing.com
 nni.bing.com
 nnj.bing.com
 nnl.bing.com
@@ -12339,7 +12340,6 @@ wwq.bing.com
 wws.bing.com
 wwv.bing.com
 www-uat.microsoftcasualgames.bing.com
-www-www.bing.com
 www.any.edge.bing.com
 www.api.choice.bing.com
 www.appex.bing.com
@@ -12372,6 +12372,7 @@ www1.bing.com
 www1.covid19.bing.com
 www2.bing.com
 www4.bing.com
+www5f.bing.com
 wwwcovid19.bing.com
 wwww.bing.com
 wwy.bing.com
