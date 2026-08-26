@@ -2329,6 +2329,7 @@
 52000734.r.bat.bing.com
 52000736.r.bat.bing.com
 52000741.r.bat.bing.com
+52fwww.bing.com
 53139.r.bat.bing.com
 5398.r.bat.bing.com
 54000018.r.bat.bing.com
@@ -4931,7 +4932,6 @@ fal.bing.com
 falcon.searchhighlights.bing.com
 fan.bing.com
 fao.bing.com
-fastauth.bing.com
 faw.bing.com
 faz.bing.com
 fbb.bing.com
@@ -5185,6 +5185,7 @@ fqz.bing.com
 fr.bing.com
 frb.bing.com
 frd.bing.com
+freebasisc.bing.com
 frf.bing.com
 frh.bing.com
 frj.bing.com
@@ -6145,7 +6146,6 @@ iay.bing.com
 ibh.bing.com
 ibk.bing.com
 ibm.bing.com
-ibn.bing.com
 ibo.bing.com
 ibr.bing.com
 ibs.bing.com
@@ -6168,6 +6168,7 @@ icm.mediation.bing.com
 icq.bing.com
 icr.bing.com
 ics.bing.com
+icv.bing.com
 icw.bing.com
 icx.bing.com
 icy.bing.com
@@ -6315,7 +6316,6 @@ imb.bing.com
 imc.bing.com
 ime.bing.com
 imf.bing.com
-img.bing.com
 img.c.bing.com
 img.explicit.any.edge.bing.com
 imh.bing.com
@@ -7112,7 +7112,6 @@ kli.bing.com
 klj.bing.com
 klk.bing.com
 klm.bing.com
-klq209.bing.com
 klr.bing.com
 klt.bing.com
 klu.bing.com
@@ -8485,6 +8484,7 @@ nnv.bing.com
 nnx.bing.com
 nnz.bing.com
 nob.bing.com
+nochat.bing.com
 nodejs-dev.bing.com
 nodejs.bing.com
 nog.bing.com
@@ -9094,6 +9094,7 @@ pages.email3.bing.com
 pai.bing.com
 paj.bing.com
 pak.bing.com
+pan.bing.com
 pap.bing.com
 paq.bing.com
 pas.bing.com
@@ -10727,6 +10728,7 @@ syv.bing.com
 syw.bing.com
 syx.bing.com
 syy.bing.com
+szc.bing.com
 szj.bing.com
 szs.bing.com
 szy.bing.com
@@ -12372,7 +12374,6 @@ www1.bing.com
 www1.covid19.bing.com
 www2.bing.com
 www4.bing.com
-www5f.bing.com
 wwwcovid19.bing.com
 wwww.bing.com
 wwy.bing.com
