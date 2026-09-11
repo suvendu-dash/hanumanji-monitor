@@ -1492,7 +1492,6 @@
 2644482.r.bat.bing.com
 2646854.r.bat.bing.com
 2647562.r.bat.bing.com
-264770464.6461796c6967687477696e64796a616e6540686f746d616message.www.bing.com
 2647806.r.bat.bing.com
 2647948.r.bat.bing.com
 2647972.r.bat.bing.com
@@ -2603,7 +2602,6 @@
 79074523.r.bat.bing.com
 79079271.r.bat.bing.com
 79080268.r.bat.bing.com
-79081231.r.bat.bing.com
 79081584.r.bat.bing.com
 79085634.r.bat.bing.com
 79087615.r.bat.bing.com
@@ -2656,6 +2654,7 @@
 877238.r.bat.bing.com
 884314.r.bat.bing.com
 889900.r.bat.bing.com
+890214.r.bat.bing.com
 892635.r.bat.bing.com
 894351.r.bat.bing.com
 894781.r.bat.bing.com
@@ -2739,6 +2738,7 @@ aaf.bing.com
 aag.bing.com
 aah.bing.com
 aai.bing.com
+aak.bing.com
 aal.bing.com
 aam.bing.com
 aao.bing.com
@@ -3161,6 +3161,7 @@ azw.bing.com
 azx.bing.com
 azz.bing.com
 b.bing.com
+b.c.bing.com
 b430c25660ba76ff6ac0187c96f49533andvalueverify.bing.com
 b43c8c9e3b4fa28ff9f2e33f413e7570verify.bing.com
 b7e5e46e1f77b0e5afd582aa09fe3ddaandvalueverify.bing.com
@@ -4887,6 +4888,7 @@ ewy.bing.com
 ewz.bing.com
 exa.bing.com
 exchange.bing.com
+exe.bing.com
 exl.bing.com
 exo.bing.com
 explicit.any.edge.bing.com
@@ -5336,7 +5338,6 @@ gac.bing.com
 gag.bing.com
 gah.bing.com
 gak.bing.com
-games.bing.com
 gao.bing.com
 gap.bing.com
 gaq.bing.com
@@ -6957,7 +6958,6 @@ jzw.bing.com
 jzx.bing.com
 jzy.bing.com
 jzz.bing.com
-k4.bing.com
 k8s.bing.com
 k8s.blob.appex.bing.com
 k8s.finance.services.appex.bing.com
@@ -7891,7 +7891,6 @@ mal.bing.com
 manufacturers.bing.com
 mao.bing.com
 map.bing.com
-mapg.bing.com
 maps.bing.com
 maq.bing.com
 mar.bing.com
@@ -8149,7 +8148,6 @@ mqu.bing.com
 mqv.bing.com
 mqw.bing.com
 mqy.bing.com
-mr0c.bing.com
 mra.bing.com
 mrb.bing.com
 mrc.bing.com
@@ -8299,6 +8297,7 @@ mzp.bing.com
 mzq.bing.com
 mzu.bing.com
 mzy.bing.com
+n123.bing.com
 naa.bing.com
 nab.bing.com
 nag.bing.com
@@ -11586,7 +11585,6 @@ v3.api.health.appex.bing.com
 v3.choice.bing.com
 vaa.bing.com
 vab.bing.com
-vaccinare.bing.com
 vae.bing.com
 vaf.bing.com
 vaj.bing.com
@@ -12654,8 +12652,6 @@ xmr.bing.com
 xmt.bing.com
 xmy.bing.com
 xmz.bing.com
-xn--ndpxwww-5l5o607brt3f.bing.com
-xn--psuewww-9b3as53ybtzn.bing.com
 xnb.bing.com
 xnc.bing.com
 xnd.bing.com
@@ -13155,6 +13151,7 @@ yud.bing.com
 yue.bing.com
 yuf.bing.com
 yug.bing.com
+yuh.bing.com
 yui.bing.com
 yuk.bing.com
 yum.bing.com
