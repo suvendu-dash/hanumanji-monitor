@@ -2097,6 +2097,7 @@
 45.76.10.237.bing.com
 45.76.71.183.bing.com
 45.77.87.164.bing.com
+45022185.r.bat.bing.com
 45027101.r.bat.bing.com
 45031511.r.bat.bing.com
 45040164.r.bat.bing.com
@@ -2654,7 +2655,6 @@
 877238.r.bat.bing.com
 884314.r.bat.bing.com
 889900.r.bat.bing.com
-890214.r.bat.bing.com
 892635.r.bat.bing.com
 894351.r.bat.bing.com
 894781.r.bat.bing.com
@@ -2738,7 +2738,6 @@ aaf.bing.com
 aag.bing.com
 aah.bing.com
 aai.bing.com
-aak.bing.com
 aal.bing.com
 aam.bing.com
 aao.bing.com
@@ -2802,7 +2801,6 @@ admin.commerce.bing.com
 adn.bing.com
 adq.bing.com
 ads.bing.com
-adserver.bing.com
 adt.bing.com
 adw.bing.com
 adx.bing.com
@@ -3161,7 +3159,6 @@ azw.bing.com
 azx.bing.com
 azz.bing.com
 b.bing.com
-b.c.bing.com
 b430c25660ba76ff6ac0187c96f49533andvalueverify.bing.com
 b43c8c9e3b4fa28ff9f2e33f413e7570verify.bing.com
 b7e5e46e1f77b0e5afd582aa09fe3ddaandvalueverify.bing.com
@@ -4888,7 +4885,6 @@ ewy.bing.com
 ewz.bing.com
 exa.bing.com
 exchange.bing.com
-exe.bing.com
 exl.bing.com
 exo.bing.com
 explicit.any.edge.bing.com
@@ -5260,6 +5256,7 @@ fvb.bing.com
 fvf.bing.com
 fvg.bing.com
 fvh.bing.com
+fvi.bing.com
 fvj.bing.com
 fvl.bing.com
 fvn.bing.com
@@ -5281,6 +5278,7 @@ fwl.bing.com
 fwn.bing.com
 fwp.bing.com
 fws.bing.com
+fwuhusljdkg.bing.com
 fwv.bing.com
 fww.bing.com
 fwz.bing.com
@@ -5290,6 +5288,7 @@ fxd.bing.com
 fxf.bing.com
 fxh.bing.com
 fxj.bing.com
+fxl.bing.com
 fxn.bing.com
 fxo.bing.com
 fxp.bing.com
@@ -7043,6 +7042,7 @@ kev.bing.com
 kex.bing.com
 kfa.bing.com
 kfe.bing.com
+kff.bing.com
 kfg.bing.com
 kfh.bing.com
 kfm.bing.com
@@ -7187,6 +7187,7 @@ koz.bing.com
 kpb.bing.com
 kpc.bing.com
 kpd.bing.com
+kpe.bing.com
 kpf.bing.com
 kpg.bing.com
 kpj.bing.com
@@ -8297,7 +8298,6 @@ mzp.bing.com
 mzq.bing.com
 mzu.bing.com
 mzy.bing.com
-n123.bing.com
 naa.bing.com
 nab.bing.com
 nag.bing.com
@@ -13151,7 +13151,6 @@ yud.bing.com
 yue.bing.com
 yuf.bing.com
 yug.bing.com
-yuh.bing.com
 yui.bing.com
 yuk.bing.com
 yum.bing.com

@@ -2004,6 +2004,8 @@ dnsnewtest.paypal.com
 dnsnewtestaug11.paypal.com
 dnsnewtestaug12.paypal.com
 dnsnewtestaug12ov.paypal.com
+dnstest1.paypal.com
+dnstest2.paypal.com
 dnstestev.paypal.com
 dnstestimport1.paypal.com
 doccentralapiserv.paypal.com
@@ -6792,6 +6794,7 @@ te-alm-41146932105464054535798.qa.paypal.com
 te-alm-44525712104522943068089.qa.paypal.com
 te-apiagentserv-qa.qa.paypal.com
 te-arp-eng-chat-bot.qa.paypal.com
+te-ascend.qa.paypal.com
 te-asset-management.qa.paypal.com
 te-autonotes.qa.paypal.com
 te-base.qa.paypal.com
@@ -7872,6 +7875,9 @@ www.stage2mobile05.paypal.com
 www.stage2mobile08.paypal.com
 www.stage2mobile09.paypal.com
 www.stage2mobile10.paypal.com
+www.stage2mobile101.paypal.com
+www.stage2mobile102.paypal.com
+www.stage2mobile109.paypal.com
 www.stage2mobile12.paypal.com
 www.stage2mobile13.paypal.com
 www.stage2ms023.stage.paypal.com
@@ -8072,6 +8078,7 @@ www.te-ahphost.qa.paypal.com
 www.te-aidocs-intake.qa.paypal.com
 www.te-apiagentserv-qa.qa.paypal.com
 www.te-arp-eng-chat-bot.qa.paypal.com
+www.te-ascend.qa.paypal.com
 www.te-asset-management.qa.paypal.com
 www.te-autonotes.qa.paypal.com
 www.te-braintree-14.qa.paypal.com
@@ -8298,7 +8305,6 @@ yq102r0t7xex4w6e.stats.paypal.com
 z1u4xxwzdiww4x4i.stats.paypal.com
 z88jd0k5467b71u7.stats.paypal.com
 z94f6zn2nurkpu3o.stats.paypal.com
-zettle.paypal.com
 zettleby.paypal.com
 zettleintegrations.paypal.com
 zhangxianjun.paypal.com
