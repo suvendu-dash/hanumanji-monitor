@@ -1,7 +1,1 @@
-dnstest1.paypal.com
-dnstest2.paypal.com
-te-ascend.qa.paypal.com
-www.stage2mobile101.paypal.com
-www.stage2mobile102.paypal.com
-www.stage2mobile109.paypal.com
-www.te-ascend.qa.paypal.com
+252furi.paypal.com
