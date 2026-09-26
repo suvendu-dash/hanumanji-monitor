@@ -1,4 +1,8 @@
-audubon.atls.vault.x.com
-dr-test.payments-staging.x.com
-envoy.payments-dev.x.com
-money-support.x.com
+communitynotes-staging.x.com
+dev.unute.x.com
+email.x.com
+investor.x.com
+realm-west1.x.com
+staging.unute.x.com
+unute.x.com
+vault.x.com
