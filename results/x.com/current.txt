@@ -310,6 +310,7 @@ https.x.com
 ias.x.com
 identity.x.com
 innovators.x.com
+integrationwizard.x.com
 interest-cron-jobs.orchestrator.money-dev.x.com
 interest-cron-jobs.orchestrator.money-staging.x.com
 interest-cron-jobs.orchestrator.money.x.com
@@ -399,6 +400,7 @@ money-dev1.x.com
 money-dev2.x.com
 money-dev3.x.com
 money-staging.x.com
+money-support.x.com
 money.x.com
 mx3.x.com
 mx4.x.com
@@ -673,6 +675,7 @@ webhooks.payments-staging.x.com
 webhooks.uk.money-dev.x.com
 webmail.x.com
 wr.x.com
+www.paypal.x.com
 www.realm-cloud1.x.com
 www.shop.x.com
 www.x.com
