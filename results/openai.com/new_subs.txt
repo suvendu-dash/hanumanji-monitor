@@ -1,3 +1,0 @@
-gringotts.openai.com
-lychee.fde.openai.com
-pear.fde.openai.com
