@@ -4,6 +4,7 @@
 05cf63e817edbe81c70bc2f7e32c2c4f.verify.bing.com
 082b5ed2b0484bdc88404af196b78953.verify.bing.com
 089317e1c9205c555f86d2faaab2c337verify.bing.com
+0bat.bing.com
 0c5f7ca0ec0752119c0e727cf7ee723dandvalueverify.bing.com
 0esoq.bing.com
 0f8a0fe0603ead942304a2ee4a44de8cverify.bing.com
@@ -19,7 +20,6 @@
 1006172.r.bat.bing.com
 1006657.r.bat.bing.com
 1007741.r.bat.bing.com
-1008263g.r.bat.bing.com
 100839.r.bat.bing.com
 10085.r.bat.bing.com
 1012057.r.bat.bing.com
@@ -43,8 +43,6 @@
 1023252.r.bat.bing.com
 1023565.r.bat.bing.com
 1027187.r.bat.bing.com
-10273007.r.bat.bing.com
-1027327c.r.bat.bing.com
 1027417.r.bat.bing.com
 1027567.r.bat.bing.com
 1030628.r.bat.bing.com
@@ -78,7 +76,6 @@
 106133.r.bat.bing.com
 1061542.r.bat.bing.com
 1062184.r.bat.bing.com
-1062184s.r.bat.bing.com
 1065353.r.bat.bing.com
 1065588.r.bat.bing.com
 1065616.r.bat.bing.com
@@ -88,11 +85,8 @@
 1070-8gb-73.bing.com
 1070507.r.bat.bing.com
 1070508.r.bat.bing.com
-1070508m.r.bat.bing.com
 1070511.r.bat.bing.com
 1070513.r.bat.bing.com
-1070520c.r.bat.bing.com
-1070521c.r.bat.bing.com
 1070534.r.bat.bing.com
 1074256.r.bat.bing.com
 10749.r.bat.bing.com
@@ -176,11 +170,9 @@
 1154314.r.bat.bing.com
 1155670.r.bat.bing.com
 1156881.r.bat.bing.com
-1158760.r.bat.bing.com
 1160807.r.bat.bing.com
 1160866.r.bat.bing.com
 1160983.r.bat.bing.com
-1160983q.r.bat.bing.com
 1161299.r.bat.bing.com
 1162.r.bat.bing.com
 1163583.r.bat.bing.com
@@ -193,7 +185,6 @@
 1173262.r.bat.bing.com
 117416.r.bat.bing.com
 1175637.r.bat.bing.com
-11756375.r.bat.bing.com
 1175866.r.bat.bing.com
 1177485.r.bat.bing.com
 1178046.r.bat.bing.com
@@ -210,7 +201,6 @@
 1186136.r.bat.bing.com
 1189527.r.bat.bing.com
 1189776.r.bat.bing.com
-1189854.r.bat.bing.com
 1190754.r.bat.bing.com
 119097.r.bat.bing.com
 1193953.r.bat.bing.com
@@ -223,7 +213,6 @@
 1205658.r.bat.bing.com
 1208771.r.bat.bing.com
 1209226.r.bat.bing.com
-120944e.r.bat.bing.com
 1212143.r.bat.bing.com
 1212423.r.bat.bing.com
 1212497.r.bat.bing.com
@@ -234,7 +223,6 @@
 1220041.r.bat.bing.com
 1220367.r.bat.bing.com
 1220642.r.bat.bing.com
-1220642g.r.bat.bing.com
 122859.r.bat.bing.com
 123.bing.com
 1234091.r.bat.bing.com
@@ -247,9 +235,7 @@
 1253.r.bat.bing.com
 125447.r.bat.bing.com
 1255199.r.bat.bing.com
-1256465o.r.bat.bing.com
 1259917.r.bat.bing.com
-1259917g.r.bat.bing.com
 1268379.r.bat.bing.com
 1268692.r.bat.bing.com
 1270143.r.bat.bing.com
@@ -258,10 +244,8 @@
 1276982.r.bat.bing.com
 1281096.r.bat.bing.com
 1283496.r.bat.bing.com
-1283496a.r.bat.bing.com
 12840.r.bat.bing.com
 1286448.r.bat.bing.com
-1287272k.r.bat.bing.com
 12874.r.bat.bing.com
 1292321.r.bat.bing.com
 1296010.r.bat.bing.com
@@ -270,8 +254,6 @@
 1300068.r.bat.bing.com
 1300673.r.bat.bing.com
 1301207.r.bat.bing.com
-1302779o.r.bat.bing.com
-1302844q.r.bat.bing.com
 1303243.r.bat.bing.com
 1304097.r.bat.bing.com
 1305243.r.bat.bing.com
@@ -280,7 +262,6 @@
 1307227.r.bat.bing.com
 1309135.r.bat.bing.com
 1309184.r.bat.bing.com
-1310173o.r.bat.bing.com
 1311650.r.bat.bing.com
 1312082.r.bat.bing.com
 13128.r.bat.bing.com
@@ -334,7 +315,6 @@
 135020262.r.bat.bing.com
 135024154.r.bat.bing.com
 135024973.r.bat.bing.com
-135027604.r.bat.bing.com
 135027682.r.bat.bing.com
 135027858.r.bat.bing.com
 135027940.r.bat.bing.com
@@ -395,7 +375,6 @@
 135088792.r.bat.bing.com
 135089621.r.bat.bing.com
 1351849.r.bat.bing.com
-1351849q.r.bat.bing.com
 1351969.r.bat.bing.com
 1353008.r.bat.bing.com
 1355943.r.bat.bing.com
@@ -604,7 +583,6 @@
 1394015.r.bat.bing.com
 1396349.r.bat.bing.com
 1397923.r.bat.bing.com
-1397923c.r.bat.bing.com
 14-30-182.bing.com
 14-30-203.bing.com
 14-30-217.bing.com
@@ -650,7 +628,6 @@
 140045458.r.bat.bing.com
 140045801.r.bat.bing.com
 140046377.r.bat.bing.com
-140048918.r.bat.bing.com
 140050448.r.bat.bing.com
 140050557.r.bat.bing.com
 140051966.r.bat.bing.com
@@ -1045,8 +1022,6 @@
 1460273.r.bat.bing.com
 1460316.r.bat.bing.com
 1460604.r.bat.bing.com
-1465361.r.bat.bing.com
-1467121.r.bat.bing.com
 1467619.r.bat.bing.com
 1468090.r.bat.bing.com
 147000354.r.bat.bing.com
@@ -1178,7 +1153,6 @@
 152028814.r.bat.bing.com
 1520539.r.bat.bing.com
 1523437.r.bat.bing.com
-1527845.r.bat.bing.com
 1529606.r.bat.bing.com
 15300.r.bat.bing.com
 153000070.r.bat.bing.com
@@ -1196,7 +1170,6 @@
 153000592.r.bat.bing.com
 1530041.r.bat.bing.com
 1530274.r.bat.bing.com
-1530274g.r.bat.bing.com
 1536521.r.bat.bing.com
 1537294.r.bat.bing.com
 154000098.r.bat.bing.com
@@ -1345,7 +1318,6 @@
 1600060.r.bat.bing.com
 1602084.r.bat.bing.com
 1603219.r.bat.bing.com
-1603850g.r.bat.bing.com
 1604048.r.bat.bing.com
 1604151.r.bat.bing.com
 160426.r.bat.bing.com
@@ -1503,7 +1475,6 @@
 16gb-158.bing.com
 16gb-218.bing.com
 16gb-236.bing.com
-16gb-243.bing.com
 170000103.r.bat.bing.com
 170000104.r.bat.bing.com
 170000107.r.bat.bing.com
@@ -1526,7 +1497,6 @@
 1710262.r.bat.bing.com
 1713139.r.bat.bing.com
 1716217.r.bat.bing.com
-1716217c.r.bat.bing.com
 172000160.r.bat.bing.com
 172000323.r.bat.bing.com
 172000348.r.bat.bing.com
@@ -1708,7 +1678,6 @@
 179000002.r.bat.bing.com
 179000007.r.bat.bing.com
 1793886.r.bat.bing.com
-1796172g.r.bat.bing.com
 1797995.r.bat.bing.com
 1799591.r.bat.bing.com
 180072.r.bat.bing.com
@@ -1732,7 +1701,6 @@
 1811024.r.bat.bing.com
 1811027.r.bat.bing.com
 1811029.r.bat.bing.com
-18116529.r.bat.bing.com
 1811813.r.bat.bing.com
 1813977.r.bat.bing.com
 1814747.r.bat.bing.com
@@ -1794,7 +1762,6 @@
 1852538.r.bat.bing.com
 1852658.r.bat.bing.com
 1854922.r.bat.bing.com
-1854945g.r.bat.bing.com
 1856693.r.bat.bing.com
 1857109.r.bat.bing.com
 1857557.r.bat.bing.com
@@ -1855,23 +1822,18 @@
 1932658.r.bat.bing.com
 1933133.r.bat.bing.com
 1933275.r.bat.bing.com
-1935841.r.bat.bing.com
 19394.r.bat.bing.com
 1941005.r.bat.bing.com
 1943031.r.bat.bing.com
 1944443.r.bat.bing.com
-1945867c.r.bat.bing.com
 1950348.r.bat.bing.com
 1950746.r.bat.bing.com
 1950752.r.bat.bing.com
-1953362g.r.bat.bing.com
-1956410i.r.bat.bing.com
 196198.r.bat.bing.com
 1967186.r.bat.bing.com
 1967189.r.bat.bing.com
 1967192.r.bat.bing.com
 1967196.r.bat.bing.com
-1967196s.r.bat.bing.com
 1967197.r.bat.bing.com
 1967199.r.bat.bing.com
 1967203.r.bat.bing.com
@@ -1883,7 +1845,6 @@
 196851.r.bat.bing.com
 1972353.r.bat.bing.com
 19793.r.bat.bing.com
-19793g.r.bat.bing.com
 1982095.r.bat.bing.com
 1982525.r.bat.bing.com
 198341.r.bat.bing.com
@@ -1918,7 +1879,6 @@
 2001195.r.bat.bing.com
 2001201.r.bat.bing.com
 2001203.r.bat.bing.com
-2001203q.r.bat.bing.com
 2001231.r.bat.bing.com
 2001236.r.bat.bing.com
 2001238.r.bat.bing.com
@@ -1940,7 +1900,6 @@
 2020963.r.bat.bing.com
 2020970.r.bat.bing.com
 2024135.r.bat.bing.com
-20241359.r.bat.bing.com
 2026864.r.bat.bing.com
 2027287.r.bat.bing.com
 2027519.r.bat.bing.com
@@ -1957,7 +1916,6 @@
 2064904.r.bat.bing.com
 2065724.r.bat.bing.com
 2072549.r.bat.bing.com
-2074771.r.bat.bing.com
 2076461.r.bat.bing.com
 207681.r.bat.bing.com
 2079219.r.bat.bing.com
@@ -1970,7 +1928,6 @@
 211925.r.bat.bing.com
 2122624.r.bat.bing.com
 2122766.r.bat.bing.com
-2122846o.r.bat.bing.com
 2122935.r.bat.bing.com
 2134650.r.bat.bing.com
 2135996.r.bat.bing.com
@@ -2023,7 +1980,6 @@
 2240280.r.bat.bing.com
 2252085.r.bat.bing.com
 2254726.r.bat.bing.com
-2254726g.r.bat.bing.com
 2258324.r.bat.bing.com
 2261001.r.bat.bing.com
 2261353.r.bat.bing.com
@@ -2043,7 +1999,6 @@
 2292632.r.bat.bing.com
 2296.r.bat.bing.com
 230137.r.bat.bing.com
-2301377.r.bat.bing.com
 2308447.r.bat.bing.com
 2310374.r.bat.bing.com
 2310722.r.bat.bing.com
@@ -2055,7 +2010,6 @@
 232615.r.bat.bing.com
 232d8cf60f50388c49be51a500f7f116.verify.bing.com
 2335582.r.bat.bing.com
-2335881.r.bat.bing.com
 2340057.r.bat.bing.com
 2341574.r.bat.bing.com
 23419.r.bat.bing.com
@@ -2082,7 +2036,6 @@
 23727.r.bat.bing.com
 2377214.r.bat.bing.com
 2378893.r.bat.bing.com
-2380669g.r.bat.bing.com
 2380962.r.bat.bing.com
 238187.r.bat.bing.com
 2382853.r.bat.bing.com
@@ -2104,7 +2057,6 @@
 241128.r.bat.bing.com
 2412600.r.bat.bing.com
 2413441.r.bat.bing.com
-2413441o.r.bat.bing.com
 2413677.r.bat.bing.com
 2413678.r.bat.bing.com
 2413680.r.bat.bing.com
@@ -2137,14 +2089,12 @@
 2466621.r.bat.bing.com
 2467072.r.bat.bing.com
 2468360.r.bat.bing.com
-247.222.188.cn.bing.com
 247039.r.bat.bing.com
 2472130.r.bat.bing.com
 2472246.r.bat.bing.com
 24726.r.bat.bing.com
 2473621.r.bat.bing.com
 2478052.r.bat.bing.com
-2478052s.r.bat.bing.com
 2478910.r.bat.bing.com
 2479287.r.bat.bing.com
 2479655.r.bat.bing.com
@@ -2164,7 +2114,6 @@
 2498515.r.bat.bing.com
 2499956.r.bat.bing.com
 2500487.r.bat.bing.com
-2500487a.r.bat.bing.com
 2501605.r.bat.bing.com
 2501615.r.bat.bing.com
 2501625.r.bat.bing.com
@@ -2173,7 +2122,6 @@
 25061.r.bat.bing.com
 2509132.r.bat.bing.com
 2509482.r.bat.bing.com
-2510316.r.bat.bing.com
 2512693.r.bat.bing.com
 2512865.r.bat.bing.com
 2513817.r.bat.bing.com
@@ -2187,13 +2135,11 @@
 252fwww2.bing.com
 2530830.r.bat.bing.com
 2531488.r.bat.bing.com
-2532124c.r.bat.bing.com
 2532141.r.bat.bing.com
 2532393.r.bat.bing.com
 2532398.r.bat.bing.com
 2532402.r.bat.bing.com
 2532992.r.bat.bing.com
-2534512g.r.bat.bing.com
 2538019.r.bat.bing.com
 2538201.r.bat.bing.com
 2538447.r.bat.bing.com
@@ -2227,7 +2173,6 @@
 2569677.r.bat.bing.com
 2572184.r.bat.bing.com
 2578341.r.bat.bing.com
-2579253.r.bat.bing.com
 257966.r.bat.bing.com
 2585064.r.bat.bing.com
 2586162.r.bat.bing.com
@@ -2264,7 +2209,6 @@
 2614497.r.bat.bing.com
 2615309.r.bat.bing.com
 2617735.r.bat.bing.com
-2617938q.r.bat.bing.com
 2619148.r.bat.bing.com
 2622667.r.bat.bing.com
 2622822.r.bat.bing.com
@@ -2275,9 +2219,6 @@
 2623606.r.bat.bing.com
 2625082.r.bat.bing.com
 2625956.r.bat.bing.com
-2627222o.r.bat.bing.com
-2628044u.r.bat.bing.com
-2628221.r.bat.bing.com
 2628382.r.bat.bing.com
 2628505.r.bat.bing.com
 2628558.r.bat.bing.com
@@ -2323,7 +2264,6 @@
 2662190.r.bat.bing.com
 2662374.r.bat.bing.com
 2663389.r.bat.bing.com
-2664238o.r.bat.bing.com
 266463.r.bat.bing.com
 26650.r.bat.bing.com
 2668278.r.bat.bing.com
@@ -2347,7 +2287,6 @@
 2704996.r.bat.bing.com
 2709429.r.bat.bing.com
 2711444.r.bat.bing.com
-2712940m.r.bat.bing.com
 27129ff5af6201627cd99818150c6648andvalueverify.bing.com
 2714498.r.bat.bing.com
 271612.r.bat.bing.com
@@ -2357,7 +2296,6 @@
 2725306.r.bat.bing.com
 2727001.r.bat.bing.com
 2729071.r.bat.bing.com
-27307.r.bat.bing.com
 2731513.r.bat.bing.com
 2736623.r.bat.bing.com
 2737886.r.bat.bing.com
@@ -2367,7 +2305,6 @@
 2740902.r.bat.bing.com
 2742929.r.bat.bing.com
 2754114.r.bat.bing.com
-2754356.r.bat.bing.com
 2758640.r.bat.bing.com
 2762014.r.bat.bing.com
 276336.r.bat.bing.com
@@ -2376,7 +2313,6 @@
 2768821.r.bat.bing.com
 2769185.r.bat.bing.com
 2774778.r.bat.bing.com
-2775491.r.bat.bing.com
 2776076.r.bat.bing.com
 2777162.r.bat.bing.com
 2777164.r.bat.bing.com
@@ -2418,8 +2354,6 @@
 2826016.r.bat.bing.com
 2827500.r.bat.bing.com
 2830729.r.bat.bing.com
-2830729g.r.bat.bing.com
-2831108.r.bat.bing.com
 2831657.r.bat.bing.com
 2832707.r.bat.bing.com
 2833586.r.bat.bing.com
@@ -2462,14 +2396,12 @@
 290788.r.bat.bing.com
 2907948.r.bat.bing.com
 2908474.r.bat.bing.com
-2909728.r.bat.bing.com
 2913508.r.bat.bing.com
 2913724.r.bat.bing.com
 2916028.r.bat.bing.com
 2920522.r.bat.bing.com
 2921218.r.bat.bing.com
 2925810.r.bat.bing.com
-2925964.r.bat.bing.com
 2928207.r.bat.bing.com
 2928674.r.bat.bing.com
 2929274.r.bat.bing.com
@@ -2497,7 +2429,6 @@
 2977271.r.bat.bing.com
 2977437.r.bat.bing.com
 2978912.r.bat.bing.com
-2978918c.r.bat.bing.com
 2978984.r.bat.bing.com
 2981886.r.bat.bing.com
 2985853.r.bat.bing.com
@@ -2509,7 +2440,6 @@
 2993205.r.bat.bing.com
 2996032.r.bat.bing.com
 2997740.r.bat.bing.com
-2998494c.r.bat.bing.com
 29p.ruwww.bing.com
 2fcn.bing.com
 2fwww.be.bing.com
@@ -2524,12 +2454,10 @@
 3000822.r.bat.bing.com
 3000823.r.bat.bing.com
 3001913.r.bat.bing.com
-3003130e.r.bat.bing.com
 3004837.r.bat.bing.com
 3005639.r.bat.bing.com
 3006040.r.bat.bing.com
 3007d66c492e339e2a0efee55090b206verify.bing.com
-3012794c.r.bat.bing.com
 30149.r.bat.bing.com
 3015017.r.bat.bing.com
 3019878.r.bat.bing.com
@@ -2561,13 +2489,10 @@
 3073828.r.bat.bing.com
 3074851.r.bat.bing.com
 3075218.r.bat.bing.com
-30771193cw.bing.com
 3081985.r.bat.bing.com
 3082336.r.bat.bing.com
 3083077.r.bat.bing.com
-30830775.r.bat.bing.com
 3089618.r.bat.bing.com
-3089618o.r.bat.bing.com
 3089759.r.bat.bing.com
 3090099.r.bat.bing.com
 3093096.r.bat.bing.com
@@ -2584,7 +2509,6 @@
 31000815.r.bat.bing.com
 31001117.r.bat.bing.com
 31001440.r.bat.bing.com
-31001477.r.bat.bing.com
 31001488.r.bat.bing.com
 31001528.r.bat.bing.com
 31001546.r.bat.bing.com
@@ -2657,7 +2581,6 @@
 3170986.r.bat.bing.com
 3170987.r.bat.bing.com
 3170990.r.bat.bing.com
-31709909.r.bat.bing.com
 3170994.r.bat.bing.com
 3173.r.bat.bing.com
 3174684.r.bat.bing.com
@@ -2683,7 +2606,6 @@
 32000280.r.bat.bing.com
 32000771.r.bat.bing.com
 3200082.r.bat.bing.com
-32000829.r.bat.bing.com
 32000950.r.bat.bing.com
 32001059.r.bat.bing.com
 32001137.r.bat.bing.com
@@ -2728,12 +2650,10 @@
 3223988.r.bat.bing.com
 3228106.r.bat.bing.com
 3228230.r.bat.bing.com
-3228230a.r.bat.bing.com
 3228523.r.bat.bing.com
 3230491.r.bat.bing.com
 3235277.r.bat.bing.com
 3235534.r.bat.bing.com
-3240733g.r.bat.bing.com
 3240876.r.bat.bing.com
 324576.r.bat.bing.com
 32474.r.bat.bing.com
@@ -2762,7 +2682,6 @@
 3291318.r.bat.bing.com
 3291979.r.bat.bing.com
 3291982.r.bat.bing.com
-3293972.r.bat.bing.com
 3294317.r.bat.bing.com
 329495.r.bat.bing.com
 3296135.r.bat.bing.com
@@ -3116,7 +3035,6 @@
 41060007.r.bat.bing.com
 41060619.r.bat.bing.com
 41061942.r.bat.bing.com
-41062370.r.bat.bing.com
 41062915.r.bat.bing.com
 41065365.r.bat.bing.com
 41071396.r.bat.bing.com
@@ -3305,7 +3223,6 @@
 45.76.71.183.bing.com
 45.77.87.164.bing.com
 45003046.r.bat.bing.com
-45008394.r.bat.bing.com
 45020168.r.bat.bing.com
 45022185.r.bat.bing.com
 45023085.r.bat.bing.com
@@ -3324,7 +3241,6 @@
 45068847.r.bat.bing.com
 45076014.r.bat.bing.com
 45079814.r.bat.bing.com
-45079938.r.bat.bing.com
 45080926.r.bat.bing.com
 45083169.r.bat.bing.com
 45083395.r.bat.bing.com
@@ -3367,7 +3283,6 @@
 46035883.r.bat.bing.com
 46037088.r.bat.bing.com
 46039393.r.bat.bing.com
-46041673.r.bat.bing.com
 46046371.r.bat.bing.com
 46053701.r.bat.bing.com
 46056386.r.bat.bing.com
@@ -3498,7 +3413,6 @@
 48102723.r.bat.bing.com
 48103477.r.bat.bing.com
 48103494.r.bat.bing.com
-48106501.r.bat.bing.com
 48108181.r.bat.bing.com
 48113.r.bat.bing.com
 48113360.r.bat.bing.com
@@ -3826,7 +3740,6 @@
 53139.r.bat.bing.com
 5398.r.bat.bing.com
 54000011.r.bat.bing.com
-54000016.r.bat.bing.com
 54000018.r.bat.bing.com
 54004802.r.bat.bing.com
 54004857.r.bat.bing.com
@@ -3841,7 +3754,6 @@
 54014474.r.bat.bing.com
 54020403.r.bat.bing.com
 54021920.r.bat.bing.com
-54023618.r.bat.bing.com
 54027543.r.bat.bing.com
 54028883.r.bat.bing.com
 54028884.r.bat.bing.com
@@ -3883,14 +3795,12 @@
 5437fd5ab2ab19e81c8f94ba35a9f95aandvalueverify.bing.com
 545629.r.bat.bing.com
 549845.r.bat.bing.com
-550209.r.bat.bing.com
 553878.r.bat.bing.com
 5543.r.bat.bing.com
 555139.r.bat.bing.com
 555651.r.bat.bing.com
 5559.r.bat.bing.com
 559039.r.bat.bing.com
-559222.r.bat.bing.com
 55931.r.bat.bing.com
 55b0d5c2db7664822d011d31cfe4735fverify.bing.com
 560960.r.bat.bing.com
@@ -3903,14 +3813,11 @@
 575249.r.bat.bing.com
 577405.r.bat.bing.com
 578790.r.bat.bing.com
-579110e.r.bat.bing.com
 57947.r.bat.bing.com
 58000019.r.bat.bing.com
-58016o.r.bat.bing.com
 584178.r.bat.bing.com
 584657.r.bat.bing.com
 585042.r.bat.bing.com
-585042c.r.bat.bing.com
 586658.r.bat.bing.com
 588793.r.bat.bing.com
 589.bing.com
@@ -3983,7 +3890,6 @@
 640965.r.bat.bing.com
 645186.r.bat.bing.com
 646946.r.bat.bing.com
-646946a.r.bat.bing.com
 64897.r.bat.bing.com
 649682.r.bat.bing.com
 6499.r.bat.bing.com
@@ -4103,14 +4009,12 @@
 687371.r.bat.bing.com
 688387.r.bat.bing.com
 69487ad8bbb7421275246afe12d9c16a.verify.bing.com
-698c.r.bat.bing.com
 699.r.bat.bing.com
 6b1b604f995587fed1aa52ae902158f2verify.bing.com
 6b90aae1b630f9228a2e7251509dc647verify.bing.com
 6e1975b6a2179faf16615b4c12bb9809.verify.bing.com
 700.r.bat.bing.com
 700935.r.bat.bing.com
-700935q.r.bat.bing.com
 700937.r.bat.bing.com
 701744.r.bat.bing.com
 703830.r.bat.bing.com
@@ -4157,14 +4061,12 @@
 71079286.r.bat.bing.com
 71082390.r.bat.bing.com
 71086610.r.bat.bing.com
-71089157.r.bat.bing.com
 71090228.r.bat.bing.com
 71090254.r.bat.bing.com
 71092441.r.bat.bing.com
 71097780.r.bat.bing.com
 71107861.r.bat.bing.com
 71108923.r.bat.bing.com
-71109192.r.bat.bing.com
 71109486.r.bat.bing.com
 71110767.r.bat.bing.com
 71110806.r.bat.bing.com
@@ -4173,9 +4075,7 @@
 71112344.r.bat.bing.com
 71112722.r.bat.bing.com
 71112833.r.bat.bing.com
-71112904.r.bat.bing.com
 716858.r.bat.bing.com
-724073a.r.bat.bing.com
 726964.r.bat.bing.com
 72864.r.bat.bing.com
 735669.r.bat.bing.com
@@ -4193,7 +4093,6 @@
 762566.r.bat.bing.com
 763382.r.bat.bing.com
 7635.r.bat.bing.com
-765062o.r.bat.bing.com
 769693.r.bat.bing.com
 774263.r.bat.bing.com
 775985.r.bat.bing.com
@@ -4207,7 +4106,6 @@
 780586.r.bat.bing.com
 781114.r.bat.bing.com
 781711.r.bat.bing.com
-7817117.r.bat.bing.com
 784.r.bat.bing.com
 784001.r.bat.bing.com
 784005.r.bat.bing.com
@@ -4296,7 +4194,6 @@
 7b5f9806edb31cb5f32c83252a17144fverify.bing.com
 7emesens.tnwww.bing.com
 7f127f63964eea801802b65fd4a78576andvalueverify.bing.com
-7f58d728b48c2b028aa112a36e333b81verify.bing.com
 7ricoplumbing.com.verify.bing.com
 801918.r.bat.bing.com
 802079.r.bat.bing.com
@@ -4308,7 +4205,6 @@
 808855.r.bat.bing.com
 808874.r.bat.bing.com
 8093.r.bat.bing.com
-813813.r.bat.bing.com
 815024.r.bat.bing.com
 815458.r.bat.bing.com
 815996.r.bat.bing.com
@@ -4328,7 +4224,6 @@
 833169.r.bat.bing.com
 840653.r.bat.bing.com
 841996.r.bat.bing.com
-8419967.r.bat.bing.com
 84488.r.bat.bing.com
 8499.r.bat.bing.com
 850151.r.bat.bing.com
@@ -4343,9 +4238,7 @@
 880292.r.bat.bing.com
 883101.r.bat.bing.com
 884314.r.bat.bing.com
-886266.r.bat.bing.com
 889900.r.bat.bing.com
-889w.r.bat.bing.com
 892635.r.bat.bing.com
 893563.r.bat.bing.com
 894351.r.bat.bing.com
@@ -4355,14 +4248,11 @@
 89658.r.bat.bing.com
 89b96653dfaea2eab7d07036bcd0cdfa.verify.bing.com
 8aeb6d545189452c801b54dfca8fda8fandvalueverify.bing.com
-8aeb6d545189452c801b54dfca8fda8fandvalueverifyn.bing.com
 8b9334d2f7b9364cc9547871bc490a22.verify.bing.com
 8e65f2a9d557f5725c8931d72d62a5efverify.bing.com
 902518.r.bat.bing.com
 902556.r.bat.bing.com
-902592q.r.bat.bing.com
 904842.r.bat.bing.com
-90c6.bing.com
 911718.r.bat.bing.com
 911809.r.bat.bing.com
 914202.r.bat.bing.com
@@ -4379,15 +4269,12 @@
 928299.r.bat.bing.com
 93021.r.bat.bing.com
 9310.r.bat.bing.com
-931773.r.bat.bing.com
 932457.r.bat.bing.com
 933700.r.bat.bing.com
-933773a.r.bat.bing.com
 934075.r.bat.bing.com
 934937.r.bat.bing.com
 934986.r.bat.bing.com
 934992.r.bat.bing.com
-938023m.r.bat.bing.com
 940859.r.bat.bing.com
 941112.r.bat.bing.com
 943136.r.bat.bing.com
@@ -4422,7 +4309,6 @@
 959184.r.bat.bing.com
 964467.r.bat.bing.com
 965539.r.bat.bing.com
-966260m.r.bat.bing.com
 966301.r.bat.bing.com
 966892.r.bat.bing.com
 971300.r.bat.bing.com
@@ -4450,6 +4336,7 @@
 9e392f0f2813898cdd6bcef08abed868.3d-wallpanels.co.uktoverify.bing.com
 _cisco-uds._tcp.bing.com
 _cisco-uds.bing.com
+_cn.bing.com
 _collab-edge._tls.bing.com
 _collab-edge.bing.com
 _cuplogin._tcp.bing.com
@@ -5460,7 +5347,6 @@ cbw.bing.com
 cbx.bing.com
 cbz.bing.com
 cc.bing.com
-cc27.bing.com
 cca.bing.com
 ccb10399cd7409fbc8785d455e80e68bverfy.bing.com
 ccc.bing.com
@@ -5559,7 +5445,6 @@ chat.bat.bing.com
 chat.bing.com
 chat.edge.bing.com
 chat.www.bing.com
-chatgpt.bing.com
 chc.bing.com
 chd.bing.com
 che.bing.com
@@ -5654,7 +5539,6 @@ click.email2.bing.com
 click.email3.bing.com
 click.g.bing.com
 click.images.appex.bing.com
-clickw.email2.bing.com
 clk.bing.com
 cll.bing.com
 clm.bing.com
@@ -5746,7 +5630,6 @@ covid19-cloud.bing.com
 covid19-dev.bing.com
 covid19-dns1.bing.com
 covid19-host.bing.com
-covid19-hostru.bing.com
 covid19-m.bing.com
 covid19-mail1.bing.com
 covid19-mailin2.bing.com
@@ -5818,7 +5701,6 @@ cpz.bing.com
 cqa.bing.com
 cqb.bing.com
 cqc.bing.com
-cqe.bing.com
 cqg.bing.com
 cqi.bing.com
 cqj.bing.com
@@ -6110,7 +5992,6 @@ dhe.bing.com
 dhf.bing.com
 dhh.bing.com
 dhi.bing.com
-dhj.bing.com
 dhk.bing.com
 dhl.bing.com
 dhn.bing.com
@@ -7921,7 +7802,6 @@ hlt.bing.com
 hlv.bing.com
 hlw.bing.com
 hlx.bing.com
-hlxnm.bing.com
 hlz.bing.com
 hmb.bing.com
 hmc.bing.com
@@ -8369,7 +8249,6 @@ imp.bing.com
 imq.bing.com
 ims.bing.com
 imu.bing.com
-imw.bing.com
 imy.bing.com
 in.bing.com
 inaccord.co.ukwww.bing.com
@@ -8417,7 +8296,6 @@ iot.bing.com
 iow.bing.com
 ioy.bing.com
 ioz.bing.com
-ip-70-4-166-208.ekrgmd.spcsdns.netp.m.bing.com
 ip.bing.com
 ipb.bing.com
 ipc.bing.com
@@ -9073,7 +8951,6 @@ kcb.bing.com
 kce.bing.com
 kcf.bing.com
 kcg.bing.com
-kcgmadmin.comce.bing.com
 kci.bing.com
 kcj.bing.com
 kck.bing.com
@@ -9883,12 +9760,10 @@ mab.bing.com
 maconco.bing.com
 mae.bing.com
 mag.bing.com
-magazines.appex.bing.com
 mah.bing.com
 mai.bing.com
 mail-covid19.bing.com
 mail.90c6.bing.com
-mail.alliedimmigration.bing.com
 mail.api.bing.com
 mail.appex.bing.com
 mail.bing.com
@@ -9922,7 +9797,6 @@ mail.cc30.bing.com
 mail.cn.bing.com
 mail.dd09.bing.com
 mail.dict.bing.com
-mail.e4jdn9b.bing.com
 mail.hh22.bing.com
 mail.hh23.bing.com
 mail.hh24.bing.com
@@ -9984,7 +9858,6 @@ mail.ss25.bing.com
 mail.ss26.bing.com
 mail.ss27.bing.com
 mail.ss28.bing.com
-mail.ss29.bing.com
 mail.ssl.bing.com
 mail1-covid19.bing.com
 mail1.appex.bing.com
@@ -10061,7 +9934,6 @@ mdg.bing.com
 mdj.bing.com
 mdm.bing.com
 mdn.bing.com
-mdp-vnext.bing.com
 mdp.bing.com
 mdq.bing.com
 mds.bing.com
@@ -10134,7 +10006,6 @@ michalheger.czwww.bing.com
 michikusalabo.comwww.bing.com
 mickaelv.frwww.bing.com
 microsoft.bing.com
-microsoft.platform.bing.com
 microsoftcasualgames.bing.com
 miellerieabbaye.comwww.bing.com
 mif.bing.com
@@ -10907,7 +10778,6 @@ oas.bing.com
 oat.bing.com
 oau.bing.com
 oaw.bing.com
-oax.bing.com
 oay.bing.com
 oaz.bing.com
 obb.bing.com
@@ -11130,7 +11000,6 @@ oow.bing.com
 ooy.bing.com
 ooz.bing.com
 opb.bing.com
-openmaps.bing.com
 opewear.comwww.bing.com
 opf.bing.com
 opg.bing.com
@@ -11510,7 +11379,6 @@ pkx.bing.com
 pkz.bing.com
 pl-al.jpwww.bing.com
 plasticpalletsmanufacturers.comwww.bing.com
-platform-test.bing.com
 platform.bing.com
 platform.cn.bing.com
 platinae.comwww.bing.com
@@ -12391,7 +12259,6 @@ rnj.bing.com
 rnk.bing.com
 rnl.bing.com
 rnm.bing.com
-rnmtpnmbxijwnsijdkrvjfqwuhytvahxoqbmjfla.bing.com
 rnn.bing.com
 rnp.bing.com
 rnq.bing.com
@@ -12951,8 +12818,6 @@ srn.bing.com
 sru.bing.com
 srw.bing.com
 sry.bing.com
-ss05.bing.com
-ss14.bing.com
 ssa.bing.com
 ssc.bing.com
 ssd.bing.com
@@ -13196,10 +13061,7 @@ terrorynadamas.comwww.bing.com
 test.bat.bing.com
 test.bing.com
 test.finance.services.appex.bing.com
-test.microsoft.platform.bing.com
-test.platform.bing.com
 test.wpr.multimedia.bing.com
-testc.platform.bing.com
 testfamilysafety.bing.com
 tex.bing.com
 textkart.comwww.bing.com
@@ -14817,7 +14679,6 @@ wwq.bing.com
 wws.bing.com
 wwv.bing.com
 www-uat.microsoftcasualgames.bing.com
-www.1047419.r.bat.bing.com
 www.any.edge.bing.com
 www.api.bing.com
 www.api.choice.bing.com
@@ -14837,7 +14698,6 @@ www.images.bing.com
 www.inst.platform.bing.com
 www.instasearch.bing.com
 www.it.bing.com
-www.laporsche.bing.com
 www.latino.bing.com
 www.m.bing.com
 www.map.bing.com
@@ -14970,7 +14830,6 @@ xes.bing.com
 xet.bing.com
 xeu.bing.com
 xev.bing.com
-xew.bing.com
 xex.bing.com
 xfb.bing.com
 xfd.bing.com
@@ -15102,7 +14961,6 @@ xn--80aacfjpcw3bav4a9jub.xn--p1acfwww.bing.com
 xn--dcks9c2ay6i4c.jpwww.bing.com
 xn--news-f96g315g.bing.com
 xn--sptsies-6wa.atwww.bing.com
-xn--ww-dmklo0et9a.bing.com
 xn--www-uq0fu98noja.bing.com
 xnb.bing.com
 xnc.bing.com
